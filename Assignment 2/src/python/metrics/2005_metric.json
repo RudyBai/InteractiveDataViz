@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "painkiller",
+        "value": 9.300432714046332,
+        "count": "182/264"
+    },
+    {
+        "text": "psychonauts",
+        "value": 9.165535999177528,
+        "count": "128/158"
+    },
+    {
+        "text": "dredd",
+        "value": 7.476564867786691,
+        "count": "68/75"
+    },
+    {
+        "text": "swat",
+        "value": 7.138477380885722,
+        "count": "172/316"
+    },
+    {
+        "text": "skreczi",
+        "value": 7.0,
+        "count": "49/49"
+    },
+    {
+        "text": "flatout",
+        "value": 5.269623245630789,
+        "count": "59/86"
+    },
+    {
+        "text": "advent",
+        "value": 4.601395386855257,
+        "count": "35/45"
+    },
+    {
+        "text": "dukenico",
+        "value": 4.358898943540674,
+        "count": "19/19"
+    },
+    {
+        "text": "kung",
+        "value": 4.199125273342591,
+        "count": "24/28"
+    },
+    {
+        "text": "dragonshard",
+        "value": 4.0,
+        "count": "16/16"
+    },
+    {
+        "text": "orson",
+        "value": 3.9437657108225146,
+        "count": "19/21"
+    },
+    {
+        "text": "the",
+        "value": 3.8444534035800437,
+        "count": "13916/427009"
+    },
+    {
+        "text": "sudeki",
+        "value": 3.7416573867739413,
+        "count": "14/14"
+    },
+    {
+        "text": "perps",
+        "value": 3.5555555555555554,
+        "count": "16/18"
+    },
+    {
+        "text": "gideon",
+        "value": 3.4641016151377544,
+        "count": "12/12"
+    },
+    {
+        "text": "jade",
+        "value": 3.4173382466536033,
+        "count": "60/136"
+    },
+    {
+        "text": "milkman",
+        "value": 3.3166247903554,
+        "count": "11/11"
+    },
+    {
+        "text": "battlefront",
+        "value": 3.2863353450309964,
+        "count": "30/50"
+    },
+    {
+        "text": "eberron",
+        "value": 3.0,
+        "count": "9/9"
+    },
+    {
+        "text": "figments",
+        "value": 3.0,
+        "count": "9/9"
+    },
+    {
+        "text": "wuxia",
+        "value": 3.0,
+        "count": "9/9"
+    },
+    {
+        "text": "a",
+        "value": 2.8773220922556804,
+        "count": "7198/212241"
+    },
+    {
+        "text": "and",
+        "value": 2.8766969381946708,
+        "count": "7812/240021"
+    },
+    {
+        "text": "aftershock",
+        "value": 2.782608695652174,
+        "count": "16/23"
+    },
+    {
+        "text": "shadowgrounds",
+        "value": 2.7664166758624407,
+        "count": "15/21"
+    },
+    {
+        "text": "tarot",
+        "value": 2.757010706043957,
+        "count": "14/19"
+    },
+    {
+        "text": "gothic",
+        "value": 2.746045752180767,
+        "count": "200/1030"
+    },
+    {
+        "text": "psychic",
+        "value": 2.6937174959270465,
+        "count": "30/61"
+    },
+    {
+        "text": "lawgiver",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "stakegun",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "wildfire",
+        "value": 2.619160170741759,
+        "count": "14/20"
+    },
+    {
+        "text": "of",
+        "value": 2.5894509569226227,
+        "count": "5865/173458"
+    },
+    {
+        "text": "to",
+        "value": 2.528955138617015,
+        "count": "6529/208607"
+    },
+    {
+        "text": "civiv",
+        "value": 2.5141574442188355,
+        "count": "8/9"
+    },
+    {
+        "text": "napoleon",
+        "value": 2.445248198920768,
+        "count": "12/17"
+    },
+    {
+        "text": "notr",
+        "value": 2.4325212770526,
+        "count": "10/13"
+    },
+    {
+        "text": "fu",
+        "value": 2.4038461538461537,
+        "count": "25/52"
+    },
+    {
+        "text": "you",
+        "value": 2.385428412728594,
+        "count": "4756/137498"
+    },
+    {
+        "text": "spellforce",
+        "value": 2.381833368207318,
+        "count": "32/76"
+    },
+    {
+        "text": "hma",
+        "value": 2.2627416997969525,
+        "count": "8/10"
+    },
+    {
+        "text": "is",
+        "value": 2.256205460629219,
+        "count": "4824/148502"
+    },
+    {
+        "text": "aurelians",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "perp",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "lawrod",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "psychonaut",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "fettel",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "lastmann",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "paintball",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "ffvtr",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "derby",
+        "value": 2.2344134689658173,
+        "count": "15/26"
+    },
+    {
+        "text": "squad",
+        "value": 2.2220367278797997,
+        "count": "121/599"
+    },
+    {
+        "text": "rayne",
+        "value": 2.187138399865287,
+        "count": "21/44"
+    },
+    {
+        "text": "seta",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "bruno",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "seiv",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "judges",
+        "value": 2.0784609690826525,
+        "count": "12/20"
+    },
+    {
+        "text": "purgatory",
+        "value": 2.0748125068968304,
+        "count": "15/28"
+    },
+    {
+        "text": "arrest",
+        "value": 2.062728204448992,
+        "count": "24/57"
+    },
+    {
+        "text": "pepper",
+        "value": 2.05703790890632,
+        "count": "8/11"
+    },
+    {
+        "text": "overdose",
+        "value": 2.032789070454354,
+        "count": "20/44"
+    },
+    {
+        "text": "it",
+        "value": 2.0047859637398537,
+        "count": "4219/136693"
+    },
+    {
+        "text": "lethal",
+        "value": 2.0014052156847804,
+        "count": "42/136"
+    },
+    {
+        "text": "chariot",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "dragonshards",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "arrowheads",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "pomagamy",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "cobweb",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "psiche",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "paxton",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "\u0434\u0430\u043b\u0451\u043a\u043e\u0439",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "droideka",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "ganymede",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "beanbags",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "sev",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "game",
+        "value": 1.9913237991259152,
+        "count": "4483/150734"
+    },
+    {
+        "text": "stake",
+        "value": 1.9581418555935162,
+        "count": "18/39"
+    },
+    {
+        "text": "quake",
+        "value": 1.9269337639028357,
+        "count": "115/640"
+    },
+    {
+        "text": "gus",
+        "value": 1.8856180831641267,
+        "count": "8/12"
+    },
+    {
+        "text": "republic",
+        "value": 1.8782608695652177,
+        "count": "36/115"
+    },
+    {
+        "text": "circus",
+        "value": 1.8708286933869707,
+        "count": "14/28"
+    },
+    {
+        "text": "strogg",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "duster",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "perseus",
+        "value": 1.8520259177452134,
+        "count": "7/10"
+    },
+    {
+        "text": "in",
+        "value": 1.8290268218495267,
+        "count": "3319/104542"
+    },
+    {
+        "text": "bioware",
+        "value": 1.8220640569395017,
+        "count": "64/281"
+    },
+    {
+        "text": "judge",
+        "value": 1.7811830427522335,
+        "count": "55/229"
+    },
+    {
+        "text": "halo",
+        "value": 1.7701103966494662,
+        "count": "34/112"
+    },
+    {
+        "text": "i",
+        "value": 1.7663035308107708,
+        "count": "4075/147274"
+    },
+    {
+        "text": "surrender",
+        "value": 1.760446975548826,
+        "count": "15/33"
+    },
+    {
+        "text": "that",
+        "value": 1.7532184341723787,
+        "count": "2851/86828"
+    },
+    {
+        "text": "awesome",
+        "value": 1.7470257876901076,
+        "count": "345/3668"
+    },
+    {
+        "text": "disciples",
+        "value": 1.7434413661386936,
+        "count": "31/99"
+    },
+    {
+        "text": "treason",
+        "value": 1.740570538305348,
+        "count": "8/13"
+    },
+    {
+        "text": "poteri",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "umbragen",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u043f\u043e\u043d\u043e\u0441\u0442\u0430\u043b\u044c\u0433\u0438\u0440\u043e\u0432\u0430\u0442\u044c",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "stroggs",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "hagen",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "apprenticeship",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "mentali",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "saremo",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "frecuently",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "shafer",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u043f\u043b\u0430\u043d\u0435\u0442\u0430",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u0432\u0435\u0441\u0435\u043b\u044c\u0435",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "runemaster",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "poink",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "handcuffs",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "stetchkov",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "markmods",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "gustava",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "malfador",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "ned",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "wojen",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "droides",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "timesplitters",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "hua",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "scott",
+        "value": 1.7253974984848501,
+        "count": "19/48"
+    },
+    {
+        "text": "suspects",
+        "value": 1.7253974984848501,
+        "count": "19/48"
+    },
+    {
+        "text": "this",
+        "value": 1.6987463703522163,
+        "count": "3172/105165"
+    },
+    {
+        "text": "guild",
+        "value": 1.6968777997167162,
+        "count": "44/172"
+    },
+    {
+        "text": "campers",
+        "value": 1.6836599252229214,
+        "count": "7/11"
+    },
+    {
+        "text": "jednostki",
+        "value": 1.6836599252229214,
+        "count": "7/11"
+    },
+    {
+        "text": "ww",
+        "value": 1.662768775266122,
+        "count": "12/25"
+    },
+    {
+        "text": "martial",
+        "value": 1.6598500055174643,
+        "count": "15/35"
+    },
+    {
+        "text": "strategycore",
+        "value": 1.6329931618554518,
+        "count": "6/9"
+    },
+    {
+        "text": "khorinis",
+        "value": 1.6329931618554518,
+        "count": "6/9"
+    },
+    {
+        "text": "arrests",
+        "value": 1.6329931618554518,
+        "count": "6/9"
+    },
+    {
+        "text": "bloodrayne",
+        "value": 1.6310862643063158,
+        "count": "21/59"
+    },
+    {
+        "text": "microids",
+        "value": 1.6162440712835373,
+        "count": "8/14"
+    },
+    {
+        "text": "powers",
+        "value": 1.6029382014153857,
+        "count": "88/515"
+    },
+    {
+        "text": "dahaka",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "feld",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "tyler",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "lc",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "mcpherson",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "morgue",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "barracuda",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "are",
+        "value": 1.5890447160388568,
+        "count": "2082/59784"
+    },
+    {
+        "text": "rising",
+        "value": 1.587888912138212,
+        "count": "32/114"
+    },
+    {
+        "text": "arresting",
+        "value": 1.5811388300841898,
+        "count": "10/20"
+    },
+    {
+        "text": "victoria",
+        "value": 1.5701283835976017,
+        "count": "15/37"
+    },
+    {
+        "text": "commando",
+        "value": 1.5676734353812338,
+        "count": "24/75"
+    },
+    {
+        "text": "with",
+        "value": 1.5608201797873178,
+        "count": "2146/63693"
+    },
+    {
+        "text": "alma",
+        "value": 1.5433549314543447,
+        "count": "7/12"
+    },
+    {
+        "text": "sands",
+        "value": 1.5412241246809346,
+        "count": "33/123"
+    },
+    {
+        "text": "shooter",
+        "value": 1.533570029384795,
+        "count": "197/1803"
+    },
+    {
+        "text": "but",
+        "value": 1.508199463589996,
+        "count": "2261/71284"
+    },
+    {
+        "text": "mortem",
+        "value": 1.5058465048420855,
+        "count": "10/21"
+    },
+    {
+        "text": "cossacks",
+        "value": 1.4896089793105451,
+        "count": "15/39"
+    },
+    {
+        "text": "for",
+        "value": 1.4758743666186014,
+        "count": "2242/71929"
+    },
+    {
+        "text": "schafer",
+        "value": 1.4545454545454546,
+        "count": "16/44"
+    },
+    {
+        "text": "hostages",
+        "value": 1.4529663145135578,
+        "count": "19/57"
+    },
+    {
+        "text": "shurikens",
+        "value": 1.4210526315789473,
+        "count": "9/19"
+    },
+    {
+        "text": "shooters",
+        "value": 1.4173092542839887,
+        "count": "110/814"
+    },
+    {
+        "text": "psi",
+        "value": 1.41694512666125,
+        "count": "15/41"
+    },
+    {
+        "text": "napoleonic",
+        "value": 1.4142135623730951,
+        "count": "8/16"
+    },
+    {
+        "text": "w\u0105tki",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "st\u0105d",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "g\u0142\u00f3wn\u0105",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "zapas",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "fasi",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kaak",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ttt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "linearish",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wargot",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "khyber",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "carrera",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "immergent",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "soooper",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043f\u043e\u0441\u043f\u0435\u0448\u0438\u0442\u044c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "immersji",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "2048",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "civvy",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mortis",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "lawbreakers",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "psycores",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "spisku",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "umy\u015ble",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wyzwoli\u0107",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "razputin",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "estivo",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "formazione",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "capacit\u00e0",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "menti",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tesoro",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "convertibili",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ragnatele",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "proiezioni",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "saranno",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tasti",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "carattere",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "supportate",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mediamente",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dallo",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tightropes",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "piaciuta",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "cruller",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pyschonauts",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "velvetopia",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "shaffer",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "atc",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "estar\u00e9",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rozumiej\u0105",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "grosze",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0431\u0430\u0442\u043b\u0444\u0440\u043e\u043d\u0442\u0430",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0433\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0435",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0437\u0430\u0441\u0447\u0451\u0442",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0434\u0436\u0435\u0434\u0430\u0435\u0432",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043a\u0440\u0435\u0439\u0441\u0435\u0440\u0430",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043c\u0430\u0433\u0438\u0441\u0442\u0440",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0444\u0435\u0442\u0442\u0430",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043f\u0438\u0443",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "instaling",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nothin",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ludzko\u015bci",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "redy",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "optiwand",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0432\u0430\u043d\u0438\u0435",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043f\u0440\u0438\u043a\u0430\u0437\u044b",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\uff3c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "compliance",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "obscenities",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "doorframe",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "manbot",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "underpower",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "agentce",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "zaczynamy",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u015bledztwa",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dopracowane",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "praga",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "stilllife",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "granddaughter",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "forensic",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "cleese",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "jadeempire",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mehh",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "commandement",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "witchhunter",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "grossmacht",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "diplomatischen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "haengt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kavallerie",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "oddzia\u0142em",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "najd\u0142u\u017csza",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "droide",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "g\u00e9onosiens",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "trandoshans",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sagi",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u015bredniak",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "najs\u0142abszego",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gwiezdnych",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0444\u0440\u0430\u043d\u0448\u0438\u0437\u0435",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043a\u0430\u043a\u043e\u043c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "commando'",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kameraden",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    }
+]

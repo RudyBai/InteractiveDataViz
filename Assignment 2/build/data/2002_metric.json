@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "arx",
+        "value": 8.24906609336732,
+        "count": "85/95"
+    },
+    {
+        "text": "fatalis",
+        "value": 6.349479201798204,
+        "count": "56/66"
+    },
+    {
+        "text": "morrowind",
+        "value": 6.0097161681842515,
+        "count": "154/318"
+    },
+    {
+        "text": "enclave",
+        "value": 5.357716198668302,
+        "count": "41/49"
+    },
+    {
+        "text": "syberia",
+        "value": 5.090059665255069,
+        "count": "123/268"
+    },
+    {
+        "text": "kate",
+        "value": 4.2875000000000005,
+        "count": "49/80"
+    },
+    {
+        "text": "haegemonia",
+        "value": 3.72677996249965,
+        "count": "20/24"
+    },
+    {
+        "text": "moonbase",
+        "value": 3.605551275463989,
+        "count": "13/13"
+    },
+    {
+        "text": "mafia",
+        "value": 3.365383693462845,
+        "count": "75/193"
+    },
+    {
+        "text": "simon",
+        "value": 3.08856580864408,
+        "count": "41/85"
+    },
+    {
+        "text": "arkane",
+        "value": 3.0402393911591163,
+        "count": "11/12"
+    },
+    {
+        "text": "divine",
+        "value": 3.021414198446381,
+        "count": "55/135"
+    },
+    {
+        "text": "openmw",
+        "value": 3.0,
+        "count": "9/9"
+    },
+    {
+        "text": "libertatis",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "vivec",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "yin",
+        "value": 2.63523138347365,
+        "count": "10/12"
+    },
+    {
+        "text": "vvardenfell",
+        "value": 2.5141574442188355,
+        "count": "8/9"
+    },
+    {
+        "text": "automaton",
+        "value": 2.5141574442188355,
+        "count": "8/9"
+    },
+    {
+        "text": "neen",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "dunmer",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "valadilene",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "voralberg",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "the",
+        "value": 2.4455465310214346,
+        "count": "10293/427009"
+    },
+    {
+        "text": "tamriel",
+        "value": 2.4325212770526,
+        "count": "10/13"
+    },
+    {
+        "text": "rtcw",
+        "value": 2.4325212770526,
+        "count": "10/13"
+    },
+    {
+        "text": "rides",
+        "value": 2.3690759328529905,
+        "count": "37/95"
+    },
+    {
+        "text": "chakan",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "seyda",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "jedi",
+        "value": 2.1449912946958523,
+        "count": "77/315"
+    },
+    {
+        "text": "automatons",
+        "value": 2.130553026410539,
+        "count": "13/22"
+    },
+    {
+        "text": "walker",
+        "value": 2.1059009533901114,
+        "count": "22/49"
+    },
+    {
+        "text": "tribunal",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "rice",
+        "value": 2.0268262607727445,
+        "count": "11/18"
+    },
+    {
+        "text": "subseries",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "balmora",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "teutons",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "footpath",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "bespin",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "yang",
+        "value": 1.9201511944162841,
+        "count": "11/19"
+    },
+    {
+        "text": "divinity",
+        "value": 1.9105234884711573,
+        "count": "69/300"
+    },
+    {
+        "text": "kof",
+        "value": 1.8748866632412744,
+        "count": "13/25"
+    },
+    {
+        "text": "and",
+        "value": 1.8565232667511222,
+        "count": "5834/240021"
+    },
+    {
+        "text": "a",
+        "value": 1.7555523557474038,
+        "count": "5178/212241"
+    },
+    {
+        "text": "to",
+        "value": 1.7536365134434906,
+        "count": "5115/208607"
+    },
+    {
+        "text": "crusader",
+        "value": 1.7331048558493811,
+        "count": "50/204"
+    },
+    {
+        "text": "sarafan",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "fanboi",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "hegemonia",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "ald",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "solstheim",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "indoril",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "nerevar",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u043a\u0430\u0442\u0430\u0440\u043d",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "wk",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u0445\u0438\u0442\u043c\u0430\u043d\u0435",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u044f",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u0434\u0432\u0438\u0433\u0430\u0435\u0442\u0441\u044f",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "icewind",
+        "value": 1.7200795075608022,
+        "count": "52/218"
+    },
+    {
+        "text": "dale",
+        "value": 1.6784002297497023,
+        "count": "51/217"
+    },
+    {
+        "text": "omen",
+        "value": 1.6671275083039565,
+        "count": "37/135"
+    },
+    {
+        "text": "lawyer",
+        "value": 1.6643566632465154,
+        "count": "10/19"
+    },
+    {
+        "text": "emulator",
+        "value": 1.6568362036567181,
+        "count": "39/147"
+    },
+    {
+        "text": "of",
+        "value": 1.623312281629334,
+        "count": "4296/173458"
+    },
+    {
+        "text": "rivellon",
+        "value": 1.6162440712835373,
+        "count": "8/14"
+    },
+    {
+        "text": "homeworld",
+        "value": 1.6023350127469576,
+        "count": "39/152"
+    },
+    {
+        "text": "rct",
+        "value": 1.5237564268587005,
+        "count": "17/46"
+    },
+    {
+        "text": "it",
+        "value": 1.4824578957746197,
+        "count": "3450/136693"
+    },
+    {
+        "text": "you",
+        "value": 1.4769836795724658,
+        "count": "3455/137498"
+    },
+    {
+        "text": "lotus",
+        "value": 1.4696938456699067,
+        "count": "6/10"
+    },
+    {
+        "text": "elder",
+        "value": 1.468739122219907,
+        "count": "57/293"
+    },
+    {
+        "text": "is",
+        "value": 1.4618045514580542,
+        "count": "3612/148502"
+    },
+    {
+        "text": "game",
+        "value": 1.4611419875724616,
+        "count": "3647/150734"
+    },
+    {
+        "text": "airpower",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "liberatis",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sparkler",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "crapton",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "indulged",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vatar",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hagastrom",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0434\u0440\u0435\u0434\u043d\u043e\u0443\u0442\u044b",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "solon",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "velothi",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mgso",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tacticas",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pegas",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "coleccionista",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "striders",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rpgwise",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vvanderfell",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nords",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "reimplementation",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "msgo",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "msrp",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "julan",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "unles",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "footpaths",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "verkommt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "anklicken",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tud",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "feckless",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bandstand",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "fascinations",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043a\u0430\u0439\u043b",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043e\u0440\u043a\u0435\u0441\u0442\u0440",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "snowblind",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "xc",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "linx",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "configura\u00e7\u00f5es",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "idunno",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "millet",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "stra\u00dfen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "feng",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "shui",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rotmk",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "desigining",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "iwth",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sajikis",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "42d",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "acquirable",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "zymeth",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "technologic",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0431\u043e\u043c\u0431\u043e\u0439",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043e\u0442\u0446\u0430",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "i",
+        "value": 1.3693743261754276,
+        "count": "3439/147274"
+    },
+    {
+        "text": "mf",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "\u0434\u0443\u0436\u0435",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "mammoths",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "peddlers",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "this",
+        "value": 1.3192617316734665,
+        "count": "2680/105165"
+    },
+    {
+        "text": "bloodmoon",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "occultism",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "finalise",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "\u0441\u0432\u0435\u0442\u043e\u0432\u043e\u0439",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "nations'",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "\u0430\u0433\u0435\u043d\u0442",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "robin",
+        "value": 1.2777531299998799,
+        "count": "20/70"
+    },
+    {
+        "text": "hitman",
+        "value": 1.273773389546898,
+        "count": "30/129"
+    },
+    {
+        "text": "in",
+        "value": 1.2674143350570592,
+        "count": "2599/104542"
+    },
+    {
+        "text": "lightsaber",
+        "value": 1.26623802097464,
+        "count": "21/76"
+    },
+    {
+        "text": "kain",
+        "value": 1.241731620487271,
+        "count": "31/139"
+    },
+    {
+        "text": "scrolls",
+        "value": 1.2330675152161397,
+        "count": "57/349"
+    },
+    {
+        "text": "archmage",
+        "value": 1.1428571428571428,
+        "count": "4/7"
+    },
+    {
+        "text": "motoracer",
+        "value": 1.118033988749895,
+        "count": "5/10"
+    },
+    {
+        "text": "spearmen",
+        "value": 1.118033988749895,
+        "count": "5/10"
+    },
+    {
+        "text": "that",
+        "value": 1.1059559975340023,
+        "count": "2097/86828"
+    },
+    {
+        "text": "rts",
+        "value": 1.1029197288870642,
+        "count": "160/1835"
+    },
+    {
+        "text": "stronghold",
+        "value": 1.0978644566879712,
+        "count": "37/205"
+    },
+    {
+        "text": "jowood",
+        "value": 1.077496047522358,
+        "count": "8/21"
+    },
+    {
+        "text": "incoming",
+        "value": 1.0606165868864668,
+        "count": "23/104"
+    },
+    {
+        "text": "hof",
+        "value": 1.0497813183356477,
+        "count": "6/14"
+    },
+    {
+        "text": "iwd",
+        "value": 1.0491803278688525,
+        "count": "16/61"
+    },
+    {
+        "text": "starbreeze",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "for",
+        "value": 1.013419191480167,
+        "count": "1745/71929"
+    },
+    {
+        "text": "with",
+        "value": 1.0085904249691258,
+        "count": "1604/63693"
+    },
+    {
+        "text": "fishfaces",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "litebrite",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vorador",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "templemans",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "middleschool",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cabuco",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "legagy",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "reaking",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "garbed",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "garter",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "abounding",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fops",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "frikken",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "begginging",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "necesserily",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "unproduced",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "thelostworlds",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "chakan_and_sirens",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dgvoodooo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "verdades",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "epmpty",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "engl\u00e4nder",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cdv",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "regelm\u00e4\u00dfg",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "umrechnungskurs",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "doppelpack",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "k\u00fcsse",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "huch",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "commandeering",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "compllicated",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "maany",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "audiotracks",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rage's",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dostroing",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ardcadie",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "butifull",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quai",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pompidou",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gdw",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "spi",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cproduction",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "concentraes",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "seapower",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "seaboard",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "enbaled",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hurclean",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "uppgraded",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tropps",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ramboes",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "invades",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "you\u2019d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "monsters\u201d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "trounce",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sensitve",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "acomplisment",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "switiching",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "infantries",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "conners",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gawsh",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "veitnam",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "kiling",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ridiclous",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "consoley",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "largish",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "parajump",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "satnd",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u044e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0443\u0441\u043b\u043e\u0436\u043d\u0438\u0442\u044c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0443\u0431\u0438\u0432\u0430\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0440\u043e\u0431\u0438\u043d\u0430",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0433\u0443\u0434\u0430",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "parunastoletni",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ch\u0142opiec",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ca\u0142odnipwej",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "eskapadzie",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sp\u0119dzonej",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "drzewami",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "krzakami",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "wyobra\u017ani\u0105",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "leciwym",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pececie",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "kontynuowana",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "najbli\u017cszymi",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "m\u00f3\u0142bym",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hoodzie",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "legendzie",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "shearwood",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "superlatywach",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "subiektywna",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u017caluj\u0119",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "s\u0142owa",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "klikni\u0119cia",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cudowna",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zachwycaj\u0105ca",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "prostoty",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tamtych",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "abstrakcja",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "damy",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rysowane",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zegarmistrza",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rodzielczo\u015bci",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "komendy",
+        "value": 1.0,
+        "count": "1/1"
+    }
+]

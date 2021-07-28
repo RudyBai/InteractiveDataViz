@@ -1,0 +1,18 @@
+.Slider {
+    width: 80vw;
+    margin: auto;
+}
+
+.Details {
+    width: 10vw;
+    margin: auto;
+}
+
+.Wrapper {
+    height: 15vh;
+    display: flex;
+}
+
+.Cloud {
+    height: 85vh;
+}

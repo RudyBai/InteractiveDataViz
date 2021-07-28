@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "shogo",
+        "value": 8.880599169939067,
+        "count": "102/116"
+    },
+    {
+        "text": "blood",
+        "value": 8.131743098365192,
+        "count": "449/1170"
+    },
+    {
+        "text": "caleb",
+        "value": 6.520661863788714,
+        "count": "48/51"
+    },
+    {
+        "text": "sanitarium",
+        "value": 6.408186331093024,
+        "count": "83/118"
+    },
+    {
+        "text": "xeen",
+        "value": 5.506848708514626,
+        "count": "44/53"
+    },
+    {
+        "text": "the",
+        "value": 4.679312212682715,
+        "count": "15864/427009"
+    },
+    {
+        "text": "kq",
+        "value": 4.560359086738675,
+        "count": "44/64"
+    },
+    {
+        "text": "unreal",
+        "value": 4.486292175316076,
+        "count": "187/570"
+    },
+    {
+        "text": "lithtech",
+        "value": 4.47213595499958,
+        "count": "20/20"
+    },
+    {
+        "text": "vsim",
+        "value": 4.242640687119285,
+        "count": "18/18"
+    },
+    {
+        "text": "monolith",
+        "value": 3.814613790187019,
+        "count": "37/59"
+    },
+    {
+        "text": "mecha",
+        "value": 3.718328081116681,
+        "count": "29/42"
+    },
+    {
+        "text": "skaarj",
+        "value": 3.55824643848674,
+        "count": "22/29"
+    },
+    {
+        "text": "powerslide",
+        "value": 3.5555555555555554,
+        "count": "16/18"
+    },
+    {
+        "text": "pitchfork",
+        "value": 3.492213560989012,
+        "count": "14/15"
+    },
+    {
+        "text": "and",
+        "value": 3.46986730731306,
+        "count": "8852/240021"
+    },
+    {
+        "text": "redguard",
+        "value": 3.4507949969697003,
+        "count": "19/24"
+    },
+    {
+        "text": "quakespasm",
+        "value": 3.3166247903554,
+        "count": "11/11"
+    },
+    {
+        "text": "dbts",
+        "value": 3.1622776601683795,
+        "count": "10/10"
+    },
+    {
+        "text": "rtk",
+        "value": 3.1622776601683795,
+        "count": "10/10"
+    },
+    {
+        "text": "quake",
+        "value": 3.132677677896938,
+        "count": "159/640"
+    },
+    {
+        "text": "a",
+        "value": 3.1143089948883187,
+        "count": "7588/212241"
+    },
+    {
+        "text": "napalm",
+        "value": 3.0842316931031584,
+        "count": "20/29"
+    },
+    {
+        "text": "duke",
+        "value": 3.0487474031447097,
+        "count": "113/394"
+    },
+    {
+        "text": "to",
+        "value": 3.029913633477805,
+        "count": "7365/208607"
+    },
+    {
+        "text": "tchernobog",
+        "value": 3.0,
+        "count": "9/9"
+    },
+    {
+        "text": "lula",
+        "value": 3.0,
+        "count": "9/9"
+    },
+    {
+        "text": "of",
+        "value": 2.8841859949176594,
+        "count": "6302/173458"
+    },
+    {
+        "text": "lom",
+        "value": 2.8284271247461903,
+        "count": "8/8"
+    },
+    {
+        "text": "i",
+        "value": 2.812771886381697,
+        "count": "5557/147274"
+    },
+    {
+        "text": "airline",
+        "value": 2.806374822608415,
+        "count": "11/13"
+    },
+    {
+        "text": "sawed",
+        "value": 2.7712812921102037,
+        "count": "12/15"
+    },
+    {
+        "text": "it",
+        "value": 2.7646010910303187,
+        "count": "5227/136693"
+    },
+    {
+        "text": "interstate",
+        "value": 2.7576031259048133,
+        "count": "23/40"
+    },
+    {
+        "text": "game",
+        "value": 2.743756818841881,
+        "count": "5551/150734"
+    },
+    {
+        "text": "hoods",
+        "value": 2.7,
+        "count": "9/10"
+    },
+    {
+        "text": "glquake",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "thief",
+        "value": 2.584247019138678,
+        "count": "140/641"
+    },
+    {
+        "text": "this",
+        "value": 2.564232739940454,
+        "count": "4174/105165"
+    },
+    {
+        "text": "pali",
+        "value": 2.5141574442188355,
+        "count": "8/9"
+    },
+    {
+        "text": "anime",
+        "value": 2.4928119805247917,
+        "count": "67/220"
+    },
+    {
+        "text": "feeble",
+        "value": 2.4615384615384617,
+        "count": "16/26"
+    },
+    {
+        "text": "aktien",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "ratbag",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "darkplaces",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "oldunreal",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "urak",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "freespace",
+        "value": 2.428319229026818,
+        "count": "101/418"
+    },
+    {
+        "text": "turok",
+        "value": 2.390282980743072,
+        "count": "38/98"
+    },
+    {
+        "text": "is",
+        "value": 2.350863867375357,
+        "count": "4958/148502"
+    },
+    {
+        "text": "exoddus",
+        "value": 2.315032397181517,
+        "count": "7/8"
+    },
+    {
+        "text": "in",
+        "value": 2.2904179230846418,
+        "count": "3856/104542"
+    },
+    {
+        "text": "chewbacca",
+        "value": 2.2627416997969525,
+        "count": "8/10"
+    },
+    {
+        "text": "tiro",
+        "value": 2.2627416997969525,
+        "count": "8/10"
+    },
+    {
+        "text": "glide",
+        "value": 2.2448799002972284,
+        "count": "28/66"
+    },
+    {
+        "text": "rikers",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "carregado",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "carsten",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "you",
+        "value": 2.215232735915656,
+        "count": "4527/137498"
+    },
+    {
+        "text": "flare",
+        "value": 2.1929824561403506,
+        "count": "25/57"
+    },
+    {
+        "text": "cultists",
+        "value": 2.181529734146136,
+        "count": "20/41"
+    },
+    {
+        "text": "fps",
+        "value": 2.151659416673324,
+        "count": "292/2319"
+    },
+    {
+        "text": "rebellion",
+        "value": 2.1386138613861387,
+        "count": "36/101"
+    },
+    {
+        "text": "nukem",
+        "value": 2.1240241101666735,
+        "count": "68/264"
+    },
+    {
+        "text": "upside",
+        "value": 2.1063396370639436,
+        "count": "33/90"
+    },
+    {
+        "text": "doll",
+        "value": 2.0800632348835255,
+        "count": "20/43"
+    },
+    {
+        "text": "nali",
+        "value": 2.0578065752724597,
+        "count": "7/9"
+    },
+    {
+        "text": "that",
+        "value": 2.013872744626593,
+        "count": "3127/86828"
+    },
+    {
+        "text": "on",
+        "value": 2.010754849110331,
+        "count": "2283/54250"
+    },
+    {
+        "text": "was",
+        "value": 2.00954627248524,
+        "count": "1909/41506"
+    },
+    {
+        "text": "tommy",
+        "value": 2.0026513038714353,
+        "count": "17/35"
+    },
+    {
+        "text": "whas",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "taffer",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "fpsdrops",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "rebexe",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "voodoofx",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "creepers",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "aerosol",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "busters",
+        "value": 1.9201511944162841,
+        "count": "11/19"
+    },
+    {
+        "text": "nitro",
+        "value": 1.8895099718933204,
+        "count": "12/22"
+    },
+    {
+        "text": "deadlock",
+        "value": 1.8748866632412744,
+        "count": "13/25"
+    },
+    {
+        "text": "reznor",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "windows",
+        "value": 1.837247571380358,
+        "count": "317/3072"
+    },
+    {
+        "text": "squadron",
+        "value": 1.8257418583505536,
+        "count": "30/90"
+    },
+    {
+        "text": "but",
+        "value": 1.8213146031426646,
+        "count": "2564/71284"
+    },
+    {
+        "text": "swat",
+        "value": 1.8137881219662886,
+        "count": "69/316"
+    },
+    {
+        "text": "with",
+        "value": 1.8103222368234073,
+        "count": "2369/63693"
+    },
+    {
+        "text": "pak",
+        "value": 1.7999999999999998,
+        "count": "9/15"
+    },
+    {
+        "text": "bak",
+        "value": 1.746106780494506,
+        "count": "14/30"
+    },
+    {
+        "text": "elexis",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "freeport",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "shredder",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "interdictor",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "lordtherion",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "laspistol",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "seventies",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "wisim",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "flaregun",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u043f\u0430\u0434\u0448\u0438\u0445",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "mca",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "sanjuro",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\uc124\uce58",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\uc774\ub7f0",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "wieland",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "enric",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "for",
+        "value": 1.7274082845688319,
+        "count": "2490/71929"
+    },
+    {
+        "text": "hostages",
+        "value": 1.68831736129952,
+        "count": "21/57"
+    },
+    {
+        "text": "konkurrenz",
+        "value": 1.6329931618554518,
+        "count": "6/9"
+    },
+    {
+        "text": "vangers",
+        "value": 1.6329931618554518,
+        "count": "6/9"
+    },
+    {
+        "text": "voodoo",
+        "value": 1.6304156882557999,
+        "count": "35/127"
+    },
+    {
+        "text": "carnival",
+        "value": 1.6162440712835373,
+        "count": "8/14"
+    },
+    {
+        "text": "battlezone",
+        "value": 1.6137430609197572,
+        "count": "15/36"
+    },
+    {
+        "text": "games",
+        "value": 1.6101735178201926,
+        "count": "1312/29514"
+    },
+    {
+        "text": "overseer",
+        "value": 1.6,
+        "count": "16/40"
+    },
+    {
+        "text": "refineries",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "taurus",
+        "value": 1.5971914124998499,
+        "count": "5/7"
+    },
+    {
+        "text": "baron",
+        "value": 1.5926746139860155,
+        "count": "19/52"
+    },
+    {
+        "text": "gargoyles",
+        "value": 1.5882352941176472,
+        "count": "9/17"
+    },
+    {
+        "text": "are",
+        "value": 1.5821805979379777,
+        "count": "2076/59784"
+    },
+    {
+        "text": "as",
+        "value": 1.579520589160615,
+        "count": "1850/50377"
+    },
+    {
+        "text": "gog",
+        "value": 1.552484573790594,
+        "count": "640/10429"
+    },
+    {
+        "text": "terrorist",
+        "value": 1.5521627353882683,
+        "count": "21/62"
+    },
+    {
+        "text": "my",
+        "value": 1.5269125520785405,
+        "count": "1245/28770"
+    },
+    {
+        "text": "presto",
+        "value": 1.5084944665313014,
+        "count": "8/15"
+    },
+    {
+        "text": "one",
+        "value": 1.5045555896965122,
+        "count": "1345/32785"
+    },
+    {
+        "text": "uncheck",
+        "value": 1.4696938456699067,
+        "count": "6/10"
+    },
+    {
+        "text": "akimbo",
+        "value": 1.4696938456699067,
+        "count": "6/10"
+    },
+    {
+        "text": "gangsters",
+        "value": 1.4662740836064194,
+        "count": "20/61"
+    },
+    {
+        "text": "dgvoodoo",
+        "value": 1.4142135623730951,
+        "count": "8/16"
+    },
+    {
+        "text": "funk",
+        "value": 1.4142135623730951,
+        "count": "8/16"
+    },
+    {
+        "text": "barreled",
+        "value": 1.4142135623730951,
+        "count": "8/16"
+    },
+    {
+        "text": "landa",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sintek",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sinclaire",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "shes",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "thiefa",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tsk",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "regindeo",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "unzip",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "primagen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rebellionrebexe",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "reb",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "coruscant",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "stros",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nsdf",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bzr",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kompt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "raz\u00f3n",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "location]",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "widows",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bolter",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "weapdef",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "plazpisthit",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "novaworld",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "phantasm",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gabriella",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "underatted",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kjv",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "skeeter",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "taskkill",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dgvoodoosetup",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "airlines",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u00fcbernehmen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gewisser",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "eintoenig",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "annimmt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "einplanen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vertragsstrafen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "spritverbrauch",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "flugzuge",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "auftragsziele",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bekanntheit",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "teure",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "raketenstartrampe",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kredite",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "comichaft",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "siggi",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sorglos",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "russe",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "italiener",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "akzent",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "magen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sabotieren",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "verdorbenes",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "streik",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "highscorefunktion",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sanskrit",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "shivan",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "thrusmaster",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "annopool",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "connor",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "becausse",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "corridas",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "armagon",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dissolution",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "quaddicted",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hipnotic",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "oportunidade",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "oldunrealpatches",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "fraggers",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "chizra",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rockface",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "carnivals",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "silverman",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ref",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "soulstorm",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gamespeak",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pi\u00e9ton",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "marauders",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "golgoth",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "balkoth",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0434\u043e\u0431\u0435\u0436\u0430\u0442\u044c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0440\u0438\u043e",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0438\u0448\u0438\u043a\u0430\u0432\u044b",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "negai",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bullgut",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\ub300\ud574\uc11c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\ud504\ub9b0\uc2dc\ud314",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u10da",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "temperance",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vorlage",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "chelse",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "trainload",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "unsexy",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "eroticism",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "firesword",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "manfred",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bolko",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "richthofen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "communicator",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sorpigal",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wox",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "symbiotry",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "shangri",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mecho",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vanger",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hicolor",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "krondor",
+        "value": 1.4141554491819557,
+        "count": "23/78"
+    },
+    {
+        "text": "all",
+        "value": 1.4040312774424473,
+        "count": "1313/33886"
+    },
+    {
+        "text": "tnt",
+        "value": 1.4031874113042075,
+        "count": "11/26"
+    },
+    {
+        "text": "daventry",
+        "value": 1.3975424859373686,
+        "count": "5/8"
+    },
+    {
+        "text": "shooters",
+        "value": 1.378831601111342,
+        "count": "108/814"
+    },
+    {
+        "text": "carma",
+        "value": 1.3512175071818295,
+        "count": "11/27"
+    },
+    {
+        "text": "ddraw",
+        "value": 1.35,
+        "count": "9/20"
+    },
+    {
+        "text": "still",
+        "value": 1.3493735151454607,
+        "count": "753/15313"
+    },
+    {
+        "text": "jackrabbit",
+        "value": 1.3479383776057736,
+        "count": "17/52"
+    },
+    {
+        "text": "weapons",
+        "value": 1.3469720501283582,
+        "count": "318/4210"
+    },
+    {
+        "text": "can",
+        "value": 1.3454228821432064,
+        "count": "1289/34397"
+    },
+    {
+        "text": "cultist",
+        "value": 1.3431590619188507,
+        "count": "14/39"
+    },
+    {
+        "text": "jazz",
+        "value": 1.340883970250046,
+        "count": "32/135"
+    },
+    {
+        "text": "play",
+        "value": 1.3368796973179058,
+        "count": "967/22493"
+    },
+    {
+        "text": "novalogic",
+        "value": 1.3360853142453697,
+        "count": "6/11"
+    },
+    {
+        "text": "spill",
+        "value": 1.3360853142453697,
+        "count": "6/11"
+    },
+    {
+        "text": "enroth",
+        "value": 1.3360853142453697,
+        "count": "6/11"
+    },
+    {
+        "text": "when",
+        "value": 1.3351498738140384,
+        "count": "885/19719"
+    },
+    {
+        "text": "graphicks",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    }
+]

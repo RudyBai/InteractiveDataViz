@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "qfg",
+        "value": 5.996475117388199,
+        "count": "86/133"
+    },
+    {
+        "text": "zork",
+        "value": 4.593535781542684,
+        "count": "72/133"
+    },
+    {
+        "text": "bequest",
+        "value": 3.636549160387958,
+        "count": "18/21"
+    },
+    {
+        "text": "glory",
+        "value": 3.614674246025773,
+        "count": "124/382"
+    },
+    {
+        "text": "infocom",
+        "value": 2.957824283116886,
+        "count": "19/28"
+    },
+    {
+        "text": "daimyo",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "spielburg",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "horrorsoft",
+        "value": 2.05703790890632,
+        "count": "8/11"
+    },
+    {
+        "text": "grue",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "planetfall",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "agdinteractive",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "parsers",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "tarna",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "ultima",
+        "value": 1.6900381112751217,
+        "count": "157/1164"
+    },
+    {
+        "text": "christie",
+        "value": 1.6875,
+        "count": "9/16"
+    },
+    {
+        "text": "cole",
+        "value": 1.6836599252229214,
+        "count": "7/11"
+    },
+    {
+        "text": "powermonger",
+        "value": 1.5971914124998499,
+        "count": "5/7"
+    },
+    {
+        "text": "agd",
+        "value": 1.5971914124998499,
+        "count": "5/7"
+    },
+    {
+        "text": "sierra",
+        "value": 1.5831540987270614,
+        "count": "85/495"
+    },
+    {
+        "text": "lori",
+        "value": 1.4246353213424718,
+        "count": "7/13"
+    },
+    {
+        "text": "agatha",
+        "value": 1.4210526315789473,
+        "count": "9/19"
+    },
+    {
+        "text": "stationfall",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "grues",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hij",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hatamoto",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "seppuku",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mondain",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sosaria",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "garrott",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "shapeir",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "silmaria",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "erasmus",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "cga",
+        "value": 1.35,
+        "count": "9/20"
+    },
+    {
+        "text": "mordavia",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "parser",
+        "value": 1.274414466100004,
+        "count": "17/55"
+    },
+    {
+        "text": "transylvania",
+        "value": 1.1428571428571428,
+        "count": "4/7"
+    },
+    {
+        "text": "zeppelin",
+        "value": 1.1428571428571428,
+        "count": "4/7"
+    },
+    {
+        "text": "vga",
+        "value": 1.0894270104383608,
+        "count": "28/136"
+    },
+    {
+        "text": "quest",
+        "value": 1.020967077353301,
+        "count": "202/2812"
+    },
+    {
+        "text": "mythologies",
+        "value": 1.0,
+        "count": "4/8"
+    },
+    {
+        "text": "swordsound",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vulcanoes",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "breakwater",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "castleville",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "trickiest",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "novellas",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "meretzky",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "1981",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "versiona",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gameres",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "imgation",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quendor",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "floyd",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "navare",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vista's",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "infocoms",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "histroically",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "decease",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "likeliness",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "brainwaves",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "scoffing",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mystrey",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "egreth",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gue",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "aditions",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "conceeded",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "glitzern",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "installationsroutine",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lautsprechern",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "blechern",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "klingende",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ert\u00f6nte",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ikone",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dadaistisch",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zakmckracken",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "leinwand",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "durchstehen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mcga",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "greybeard",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "death'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tsomi",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "adolf",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quarrling",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "chraacters",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ratging",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "highsschool",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "coudl",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "drakkheneer",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "shiiiiiiit",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "candlestick",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "kleur",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tioen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "heete",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "perzies",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zelfte",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "heet",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vroeg",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hadden",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "blijk",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "baar",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "naam",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "4ael22qg8xme75d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "typecal",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "diffecult",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "onforgiven",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "brutaly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "spellbreaker",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vicar",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "evildoers",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "horrosofts",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "barkeep",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "people'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "daimo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "decared",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "houseintent",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "replicates",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "daimyos",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "wanderings",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "worhty",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "especiallly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "paddy",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hatemoto",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "grokenin",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "douchebaggery",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dishonoring",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "interrelations",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "'tcb'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "colonels",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "storywriter",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lillian",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "uncles",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "flapper",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "stranglings",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "more\u2026",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "atmospehre",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "eyepatch",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sunracer",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "questbuster",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "glitzy",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "neurath",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ssi's",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "akalebeth",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "akalebath",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "t08",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "serially",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "belches",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "indiscriminate",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "intimations",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "telengard",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vaccum",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "classics'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "feeel",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "minax",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "magenta",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "deffo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "classsic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "brittish",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "folklores",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fricana",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "wackier",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lumping",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "djinni",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "folkloristic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "backgrond",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "balboa",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05e8\u05e6\u05d9\u05ea\u05d9",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05dc\u05d3\u05e2\u05ea",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05d0\u05d9\u05da",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05de\u05d5\u05e8\u05d9\u05d3\u05d9\u05dd",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05d0\u05ea",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05d4\u05de\u05e9\u05d7\u05e7",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05e9\u05dc",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05e7\u05d5\u05d5\u05e1\u05d8",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05de\u05e1\u05e2",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u05dc\u05ea\u05d4\u05d9\u05dc\u05d4",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "untypically",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "elsa",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sanford",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "katta",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "abdullah",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "brauggi",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cory",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "qfg4",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "grahm",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "beridden",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "5's",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quest's",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "burgomeister",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "burgermeister",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "meisterburger",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "claus",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "roliicking",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vertues",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "julanar",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "moneychanger",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "emboldened",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "qftg",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "skils",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "qfg2",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "antwerp",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "goeseke",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tehre",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "yessssss",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "qfgiv",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "waffles",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "translyvanian",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tehse",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "trailblazing",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gypsies",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tusks",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lamers",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "levitates",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sacrifieces",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "diabloiii",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fanchise",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "reperesenting",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "evelve",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dragonfire",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "speilburg",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "shapier",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "intrisic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "nonethe",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "soundboards",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vizir",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "africana",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "contestants",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sstill",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "milton",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "qfgv",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rembrandt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "groucho",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "presumbly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "schumancy",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "exploere",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "overwelming",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "importation",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "incorperation",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "swill",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rankly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "djinns",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "erana",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "potatos",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "trannsylvania",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "silmarian",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "metting",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "htem",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "poind",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "populous",
+        "value": 0.9846153846153847,
+        "count": "16/65"
+    },
+    {
+        "text": "ega",
+        "value": 0.9846153846153847,
+        "count": "16/65"
+    },
+    {
+        "text": "drakkhen",
+        "value": 0.9428090415820634,
+        "count": "2/3"
+    },
+    {
+        "text": "sneaked",
+        "value": 0.9428090415820634,
+        "count": "2/3"
+    },
+    {
+        "text": "correspondence",
+        "value": 0.9428090415820634,
+        "count": "2/3"
+    },
+    {
+        "text": "i]",
+        "value": 0.9316949906249125,
+        "count": "5/12"
+    },
+    {
+        "text": "corey",
+        "value": 0.9316949906249125,
+        "count": "5/12"
+    },
+    {
+        "text": "nostalga",
+        "value": 0.8660254037844386,
+        "count": "3/6"
+    },
+    {
+        "text": "export",
+        "value": 0.8052286598892233,
+        "count": "7/23"
+    }
+]

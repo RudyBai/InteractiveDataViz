@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "darkstar",
+        "value": 6.520311557733829,
+        "count": "57/66"
+    },
+    {
+        "text": "betrayer",
+        "value": 5.488530490226757,
+        "count": "45/55"
+    },
+    {
+        "text": "zehir",
+        "value": 4.703020306143701,
+        "count": "24/25"
+    },
+    {
+        "text": "dreamfall",
+        "value": 4.413047421006241,
+        "count": "111/265"
+    },
+    {
+        "text": "motb",
+        "value": 4.085337964303427,
+        "count": "23/27"
+    },
+    {
+        "text": "defcon",
+        "value": 4.0193438088498485,
+        "count": "18/19"
+    },
+    {
+        "text": "joey",
+        "value": 3.5714285714285716,
+        "count": "25/35"
+    },
+    {
+        "text": "westgate",
+        "value": 3.1622776601683795,
+        "count": "10/10"
+    },
+    {
+        "text": "hungyeung",
+        "value": 3.1622776601683795,
+        "count": "10/10"
+    },
+    {
+        "text": "sturmovik",
+        "value": 3.0476190476190474,
+        "count": "16/21"
+    },
+    {
+        "text": "eschalon",
+        "value": 2.916184533153716,
+        "count": "21/33"
+    },
+    {
+        "text": "tlj",
+        "value": 2.8772434341325104,
+        "count": "43/98"
+    },
+    {
+        "text": "flyable",
+        "value": 2.8284271247461903,
+        "count": "8/8"
+    },
+    {
+        "text": "t\u00f8rnquist",
+        "value": 2.7,
+        "count": "9/10"
+    },
+    {
+        "text": "broderick",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "blackwell",
+        "value": 2.5459977478890328,
+        "count": "59/178"
+    },
+    {
+        "text": "varant",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "mask",
+        "value": 2.3692335751385962,
+        "count": "47/136"
+    },
+    {
+        "text": "nordmar",
+        "value": 2.315032397181517,
+        "count": "7/8"
+    },
+    {
+        "text": "rosangela",
+        "value": 2.315032397181517,
+        "count": "7/8"
+    },
+    {
+        "text": "unbound",
+        "value": 2.315032397181517,
+        "count": "7/8"
+    },
+    {
+        "text": "myrtana",
+        "value": 2.2627416997969525,
+        "count": "8/10"
+    },
+    {
+        "text": "derbies",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "soz",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "zoe",
+        "value": 2.0748125068968304,
+        "count": "15/28"
+    },
+    {
+        "text": "74",
+        "value": 2.0578065752724597,
+        "count": "7/9"
+    },
+    {
+        "text": "freelancer",
+        "value": 2.0560483851340665,
+        "count": "54/193"
+    },
+    {
+        "text": "1946",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "dso",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "chahi",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "neverwinter",
+        "value": 1.8475208614068024,
+        "count": "48/180"
+    },
+    {
+        "text": "gothic",
+        "value": 1.8014748202370106,
+        "count": "151/1030"
+    },
+    {
+        "text": "homm",
+        "value": 1.792381250983531,
+        "count": "97/533"
+    },
+    {
+        "text": "nival",
+        "value": 1.740570538305348,
+        "count": "8/13"
+    },
+    {
+        "text": "railroads",
+        "value": 1.7372796520909237,
+        "count": "11/21"
+    },
+    {
+        "text": "oc",
+        "value": 1.7320508075688772,
+        "count": "12/24"
+    },
+    {
+        "text": "rame",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "supermod",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "creas",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "icbms",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "dcote",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "the",
+        "value": 1.6475086238218017,
+        "count": "7910/427009"
+    },
+    {
+        "text": "silos",
+        "value": 1.6329931618554518,
+        "count": "6/9"
+    },
+    {
+        "text": "civcity",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "situazioni",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "nwn",
+        "value": 1.5882352941176472,
+        "count": "36/136"
+    },
+    {
+        "text": "aircraft",
+        "value": 1.4504260104851319,
+        "count": "31/119"
+    },
+    {
+        "text": "longest",
+        "value": 1.444344639611634,
+        "count": "62/338"
+    },
+    {
+        "text": "april",
+        "value": 1.4384667322292919,
+        "count": "28/103"
+    },
+    {
+        "text": "tables",
+        "value": 1.4379360583922678,
+        "count": "35/144"
+    },
+    {
+        "text": "rosa",
+        "value": 1.4246353213424718,
+        "count": "7/13"
+    },
+    {
+        "text": "\u0442\u0430\u0447\u043f\u0430\u0434\u0435",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f\u043c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "procrastinating",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tyren",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "paragidms",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "microsofts",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tomnobles",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ccr",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "eaw",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "stukas",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "aerobatics",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hyperlobby",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "misusing",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "aruba",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "snkt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "armie",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mape",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "causando",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "questpack",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "swordfighters",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mainlands",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "djiins",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sylvan",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "'blackwell",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "malone",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ammon",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "jerro",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "digression",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "slurp",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nwvault",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kelgar",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "neeshka",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "newplayers",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "choo",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "miam",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "puh",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rainwater",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tradycji",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "papierowych",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "thaermore",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dzia\u0142a\u0144",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "orakur",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "klejnotu",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "podstawowych",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wojownik",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "testy",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "podziemi",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wedle",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "trooper",
+        "value": 1.378593134736231,
+        "count": "13/34"
+    },
+    {
+        "text": "lester",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "matthew",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "cartography",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "fsw",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "castillo",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "budynki",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "rpg\u00f3w",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "toolset",
+        "value": 1.264911064067352,
+        "count": "10/25"
+    },
+    {
+        "text": "hommv",
+        "value": 1.2422599874998832,
+        "count": "5/9"
+    },
+    {
+        "text": "convergence",
+        "value": 1.2422599874998832,
+        "count": "5/9"
+    },
+    {
+        "text": "planes",
+        "value": 1.2252236237188554,
+        "count": "35/169"
+    },
+    {
+        "text": "soccer",
+        "value": 1.1880751801737361,
+        "count": "21/81"
+    },
+    {
+        "text": "and",
+        "value": 1.182155796840738,
+        "count": "4318/240021"
+    },
+    {
+        "text": "ragnar",
+        "value": 1.1313708498984762,
+        "count": "8/20"
+    },
+    {
+        "text": "etherlords",
+        "value": 1.1305337274383898,
+        "count": "6/13"
+    },
+    {
+        "text": "a",
+        "value": 1.112849085684072,
+        "count": "3821/212241"
+    },
+    {
+        "text": "deception",
+        "value": 1.1055415967851332,
+        "count": "11/33"
+    },
+    {
+        "text": "pinball",
+        "value": 1.0932283750677985,
+        "count": "52/343"
+    },
+    {
+        "text": "to",
+        "value": 1.0780067562794888,
+        "count": "3698/208607"
+    },
+    {
+        "text": "kai",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "rosenkranz",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "flight",
+        "value": 1.0314769549922784,
+        "count": "71/580"
+    },
+    {
+        "text": "of",
+        "value": 1.0100206819819622,
+        "count": "3131/173458"
+    },
+    {
+        "text": "\u043f\u043e\u0439\u0434\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0432\u0435\u0440\u043d\u0438\u0441\u044c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u0435\u043e\u0447\u0435\u0432\u0438\u0434\u043d\u044b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u043e\u0434\u0431\u0438\u0440\u0430\u0435\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f\u043c\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0442\u0440\u043e\u043b\u043b\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u0435\u043e\u0447\u0435\u0432\u0438\u0434\u043d\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u0435\u044f\u0441\u043d\u044b\u0445",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0433\u043e\u0432\u043e\u0440\u044e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0437\u0430\u043f\u0430\u0440\u0438\u043b\u0441\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0438\u043d\u0432\u0435\u043d\u0442\u0430\u0440\u044e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u043e\u0434\u0431\u0435\u0448\u0438\u0432\u0430\u043b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0440\u0435\u0434\u043f\u043e\u043b\u043e\u0436\u0438\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0432\u0438\u043d\u043e\u0432\u0430\u0442",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0441\u0442\u0430\u0442\u0443\u044f\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0440\u0440\u0440\u0440\u0440",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u0435\u043c\u043e\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u0435\u0440\u0435\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u044b\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0441\u0432\u0435\u0442\u044f\u0449\u0438\u0439\u0441\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0437\u0430\u0439\u0434\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043e\u0431\u043e\u0439\u0434\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0434\u043e\u0433\u0430\u0434\u0430\u043b\u0441\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0437\u0430\u0431\u0438\u0440\u0430\u0442\u044c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u043e\u0441\u043b\u0443\u0436\u0438\u043b\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0438\u0442\u0430\u043d\u0438\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0442\u0435\u043c\u043d\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043a\u0430\u0442\u0430\u043a\u043e\u043c\u0431\u044b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0437\u0430\u043a\u0440\u044b\u0442\u0443\u044e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0440\u0435\u043a\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0440\u043e\u0440\u043e\u043a\u0430",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0442\u0430\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0430\u0440\u0433\u0445",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0441\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "defenable",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rezza",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "napisach",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sprzedaje",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cio",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "letni\u0105",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mythique",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pr\u00e9d\u00e9cesseur",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "limitent",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "constament",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pr\u00e9paration",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u00e9venements",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "travil",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "symmpatique",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "r\u00e9volution",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "qualit\u00e9e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "test\u00e9e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "revisiter",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fanas",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "racont\u00e9es",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "int\u00e9r\u00eassantes",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "d\u00e9plaisant",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "expreriences",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "strightforward",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "minblowingly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "caharcters",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "abgeschlossene",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hineingezogen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "blickwinkeln",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "beleuchtet",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bewegend",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "blass",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "witzlos",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "kampfpassagen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ingesamt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ernster",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ragt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "untouching",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "disiculously",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "certezas",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sosiego",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "desesperaci\u00f3n",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "continute",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "frendh",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ouy",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "spoilage",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "nads",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "franchiese",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "amatueristic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "heartley",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "formspring",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "riling",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "seismic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "intermixing",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ellie",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "joystic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hollywoodish",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "uncultured",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "marcurian",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "obviousness",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sobbed",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "waggly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "unbeliavable",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "wo\u0144",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "yhe",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "campagian",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "levls",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "interferances",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pertinant",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "civlopedia",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "jetty",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "foc",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "phantoms",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "steiners",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "moff",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "kalast",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ind\u00e9modable",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sympahtique",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rewardet",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "clapclap",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "enhancment",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bataill\u00e9",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "qu'avec",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "regalais",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "prometteur",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cin\u00e9ma",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bouse",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fondor",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "choisissant",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lazzlee",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "swbg",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zan",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "galitic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "twop",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sdtar",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "spatiaux",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sc\u00e9naris\u00e9e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "escarmouche",
+        "value": 1.0,
+        "count": "1/1"
+    }
+]

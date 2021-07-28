@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "norns",
+        "value": 6.651835354264784,
+        "count": "56/63"
+    },
+    {
+        "text": "moh",
+        "value": 5.664067952035756,
+        "count": "39/43"
+    },
+    {
+        "text": "norn",
+        "value": 4.880305606465644,
+        "count": "29/32"
+    },
+    {
+        "text": "malkavian",
+        "value": 4.795831523312719,
+        "count": "23/23"
+    },
+    {
+        "text": "minions",
+        "value": 4.736135878332955,
+        "count": "114/257"
+    },
+    {
+        "text": "pranks",
+        "value": 4.412165001447701,
+        "count": "23/25"
+    },
+    {
+        "text": "uru",
+        "value": 3.989120560087818,
+        "count": "52/94"
+    },
+    {
+        "text": "sacred",
+        "value": 3.690605168095738,
+        "count": "73/169"
+    },
+    {
+        "text": "the",
+        "value": 3.6700963862328106,
+        "count": "13492/427009"
+    },
+    {
+        "text": "albia",
+        "value": 3.4641016151377544,
+        "count": "12/12"
+    },
+    {
+        "text": "locomotion",
+        "value": 3.43693177121688,
+        "count": "21/28"
+    },
+    {
+        "text": "ancaria",
+        "value": 3.2274861218395143,
+        "count": "15/18"
+    },
+    {
+        "text": "nexus",
+        "value": 3.1698903326906214,
+        "count": "37/71"
+    },
+    {
+        "text": "medal",
+        "value": 3.0829736954118676,
+        "count": "39/79"
+    },
+    {
+        "text": "perimeter",
+        "value": 3.0476190476190474,
+        "count": "16/21"
+    },
+    {
+        "text": "omaha",
+        "value": 3.0402393911591163,
+        "count": "11/12"
+    },
+    {
+        "text": "mohaa",
+        "value": 2.9692299558323607,
+        "count": "12/14"
+    },
+    {
+        "text": "genius",
+        "value": 2.848325680759395,
+        "count": "86/280"
+    },
+    {
+        "text": "panzerkleins",
+        "value": 2.8284271247461903,
+        "count": "8/8"
+    },
+    {
+        "text": "ettins",
+        "value": 2.8284271247461903,
+        "count": "8/8"
+    },
+    {
+        "text": "grendels",
+        "value": 2.8284271247461903,
+        "count": "8/8"
+    },
+    {
+        "text": "prator",
+        "value": 2.82842712474619,
+        "count": "18/27"
+    },
+    {
+        "text": "cockroach",
+        "value": 2.806374822608415,
+        "count": "11/13"
+    },
+    {
+        "text": "creatures",
+        "value": 2.8017154545076406,
+        "count": "193/957"
+    },
+    {
+        "text": "exodus",
+        "value": 2.7888958571923097,
+        "count": "22/37"
+    },
+    {
+        "text": "vampire",
+        "value": 2.712691124532757,
+        "count": "86/294"
+    },
+    {
+        "text": "agents",
+        "value": 2.6809326735298673,
+        "count": "66/200"
+    },
+    {
+        "text": "deathknight",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "camarilla",
+        "value": 2.6457513110645907,
+        "count": "7/7"
+    },
+    {
+        "text": "and",
+        "value": 2.6231742784038,
+        "count": "7346/240021"
+    },
+    {
+        "text": "spearhead",
+        "value": 2.6059194781363857,
+        "count": "11/14"
+    },
+    {
+        "text": "kotor",
+        "value": 2.6029423047726796,
+        "count": "70/225"
+    },
+    {
+        "text": "to",
+        "value": 2.587278329929885,
+        "count": "6629/208607"
+    },
+    {
+        "text": "bloodlines",
+        "value": 2.5784064398658044,
+        "count": "46/121"
+    },
+    {
+        "text": "restored",
+        "value": 2.571428571428571,
+        "count": "36/84"
+    },
+    {
+        "text": "a",
+        "value": 2.553919669649718,
+        "count": "6648/212241"
+    },
+    {
+        "text": "shalebridge",
+        "value": 2.5141574442188355,
+        "count": "8/9"
+    },
+    {
+        "text": "of",
+        "value": 2.5025258835391626,
+        "count": "5733/173458"
+    },
+    {
+        "text": "drizzt",
+        "value": 2.4545454545454546,
+        "count": "9/11"
+    },
+    {
+        "text": "masquerade",
+        "value": 2.452489063455968,
+        "count": "30/67"
+    },
+    {
+        "text": "minion",
+        "value": 2.449489742783178,
+        "count": "24/48"
+    },
+    {
+        "text": "terrarium",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "trigens",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "cradle",
+        "value": 2.445248198920768,
+        "count": "12/17"
+    },
+    {
+        "text": "nosferatu",
+        "value": 2.432191512927293,
+        "count": "11/15"
+    },
+    {
+        "text": "allied",
+        "value": 2.3192844763645653,
+        "count": "38/101"
+    },
+    {
+        "text": "unofficial",
+        "value": 2.3104540367177693,
+        "count": "53/167"
+    },
+    {
+        "text": "genetics",
+        "value": 2.2801795433693375,
+        "count": "11/16"
+    },
+    {
+        "text": "you",
+        "value": 2.246132417956849,
+        "count": "4569/137498"
+    },
+    {
+        "text": "kult",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "rottweiler",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "panzerklein",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "albian",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "genome",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "kolonien",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "mannschaft",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "mystonline",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "seraphim",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "ottd",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "joc",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "neighbour",
+        "value": 2.2320079324300885,
+        "count": "13/21"
+    },
+    {
+        "text": "henchman",
+        "value": 2.146051334935847,
+        "count": "11/17"
+    },
+    {
+        "text": "toolbar",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "henchmen",
+        "value": 2.0920454259581005,
+        "count": "21/46"
+    },
+    {
+        "text": "it",
+        "value": 2.091646649331937,
+        "count": "4340/136693"
+    },
+    {
+        "text": "game",
+        "value": 2.081946996512845,
+        "count": "4618/150734"
+    },
+    {
+        "text": "vtmb",
+        "value": 2.0578065752724597,
+        "count": "7/9"
+    },
+    {
+        "text": "salvatore",
+        "value": 2.05703790890632,
+        "count": "8/11"
+    },
+    {
+        "text": "woody",
+        "value": 2.05703790890632,
+        "count": "8/11"
+    },
+    {
+        "text": "yip",
+        "value": 2.05703790890632,
+        "count": "8/11"
+    },
+    {
+        "text": "is",
+        "value": 2.048366096111863,
+        "count": "4523/148502"
+    },
+    {
+        "text": "cry",
+        "value": 2.0408163265306123,
+        "count": "100/490"
+    },
+    {
+        "text": "tji",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "ece",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "biochemistry",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "bromsby",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "ballroom",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "karibik",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "schwertkampf",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "bae",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "lovage",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "vcr",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "troika",
+        "value": 1.9697165185034382,
+        "count": "23/56"
+    },
+    {
+        "text": "royale",
+        "value": 1.9639610121239313,
+        "count": "21/49"
+    },
+    {
+        "text": "in",
+        "value": 1.9358474054682862,
+        "count": "3447/104542"
+    },
+    {
+        "text": "bond",
+        "value": 1.9280219679864272,
+        "count": "29/81"
+    },
+    {
+        "text": "mojo",
+        "value": 1.9201511944162841,
+        "count": "11/19"
+    },
+    {
+        "text": "tourists",
+        "value": 1.8895099718933204,
+        "count": "12/22"
+    },
+    {
+        "text": "onslaught",
+        "value": 1.8869429332171104,
+        "count": "21/51"
+    },
+    {
+        "text": "laude",
+        "value": 1.8856180831641267,
+        "count": "8/12"
+    },
+    {
+        "text": "ebon",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "\u017ee",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "this",
+        "value": 1.8610879731902983,
+        "count": "3371/105165"
+    },
+    {
+        "text": "watchtower",
+        "value": 1.8520259177452134,
+        "count": "7/10"
+    },
+    {
+        "text": "firestarter",
+        "value": 1.8371173070873834,
+        "count": "6/8"
+    },
+    {
+        "text": "dancing",
+        "value": 1.8157375395108046,
+        "count": "21/53"
+    },
+    {
+        "text": "i",
+        "value": 1.8100436962938287,
+        "count": "4142/147274"
+    },
+    {
+        "text": "honor",
+        "value": 1.7701103966494662,
+        "count": "34/112"
+    },
+    {
+        "text": "sentinels",
+        "value": 1.7568209223157665,
+        "count": "10/18"
+    },
+    {
+        "text": "warlords",
+        "value": 1.7444014125449,
+        "count": "26/76"
+    },
+    {
+        "text": "attunement",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "zhai",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "glint",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "blackmoor",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "shee",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "grendel",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "tochter",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "beute",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "mysts",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "xorcist",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "minispielchen",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "mcl",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "cryteam",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "ranaar",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "acest",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "tslrcm",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "aoi",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "elixir",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "uruk",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "jeanette",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "thief",
+        "value": 1.7025535022537006,
+        "count": "106/641"
+    },
+    {
+        "text": "heroes",
+        "value": 1.6753337786056646,
+        "count": "192/1588"
+    },
+    {
+        "text": "that",
+        "value": 1.6672293674583654,
+        "count": "2757/86828"
+    },
+    {
+        "text": "james",
+        "value": 1.6025641025641026,
+        "count": "25/78"
+    },
+    {
+        "text": "duty",
+        "value": 1.6023350127469576,
+        "count": "39/152"
+    },
+    {
+        "text": "tds",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "\u043b\u0430\u0440\u0440\u0438",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "vampiress",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "breeds",
+        "value": 1.5971914124998499,
+        "count": "5/7"
+    },
+    {
+        "text": "frontline",
+        "value": 1.5084944665313014,
+        "count": "8/15"
+    },
+    {
+        "text": "infamy",
+        "value": 1.5058465048420855,
+        "count": "10/21"
+    },
+    {
+        "text": "larry",
+        "value": 1.4927616230802025,
+        "count": "46/209"
+    },
+    {
+        "text": "your",
+        "value": 1.4856647621356043,
+        "count": "1390/34882"
+    },
+    {
+        "text": "ttd",
+        "value": 1.4696938456699067,
+        "count": "6/10"
+    },
+    {
+        "text": "tournament",
+        "value": 1.4577379737113252,
+        "count": "34/136"
+    },
+    {
+        "text": "with",
+        "value": 1.455134787554098,
+        "count": "2048/63693"
+    },
+    {
+        "text": "but",
+        "value": 1.4367346995353178,
+        "count": "2189/71284"
+    },
+    {
+        "text": "bards",
+        "value": 1.4222222222222223,
+        "count": "16/45"
+    },
+    {
+        "text": "superpower",
+        "value": 1.4142135623730951,
+        "count": "8/16"
+    },
+    {
+        "text": "svk",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "trondheim",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wardrobes",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "compresses",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "illius",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "khelben",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "blackstaff",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "aowsm",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "beno\u00eet",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "youkol",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "differen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bouncers",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "panzercleins",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "panzerkliens",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pks",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ut2k4",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043e\u0431\u0440\u0430\u0434\u043e\u0432\u0430\u043b\u043e",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "biorifle",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "spastically",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "avril",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "cpm",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "asmd",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "antigen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "antibody",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "splicer",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "incubator",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "speices",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "traversible",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mkiv",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "matilda",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "cour",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "cimenterie",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "lavinia",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "elwes",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "phatetic",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "montalban",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "spanischen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pirat",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gouverneurs",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "kriminellen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "abfolge",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "schiffskampf",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "minispiel",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "unbegrenzt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hacha",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "devmode",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bindcommandtokey",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ironsights",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "trigen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "medipacks",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "thicket",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "subsets",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "probiert",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "unfavorable",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dropzones",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "catchment",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "carnate",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0447\u0435\u0442\u0432\u0435\u0440\u0442\u044b\u0445",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0441\u0443\u0449\u0435\u0441\u0442\u0432",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043f\u043e\u043b\u044e\u0431\u0438\u0442\u044c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hereo",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "grandmastery",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gelu",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gauldoth",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "emilia",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rcm",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "respectably",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "creaturescaves",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "creaturetopia",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "metarooms",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ouvriers",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tache",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "foj",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bediensteten",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "baue",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "jumpsuited",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "lionhead",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "maximillion",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "alymay",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "fangs",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043c\u0430\u043b\u043a\u0430\u0432\u0438\u0430\u043d\u0430\u043c\u0438",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043d\u043e\u0441\u0444\u0435\u0440\u0430\u0442\u0443",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "deb",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "zat\u00edm",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u010d\u00edm",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "d\u00e1l",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "m\u016f\u017ee",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "prost\u011b",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "n\u011bkdy",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vampirique",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u00fcberredungsk\u00fcnste",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "infiltrationsskills",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wittiest",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vamp",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wesp",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nosveratu",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "for",
+        "value": 1.4014695168082263,
+        "count": "2166/71929"
+    },
+    {
+        "text": "evil",
+        "value": 1.3993709380225041,
+        "count": "143/1222"
+    },
+    {
+        "text": "as",
+        "value": 1.3987375662018828,
+        "count": "1706/50377"
+    },
+    {
+        "text": "normandy",
+        "value": 1.3975424859373686,
+        "count": "5/8"
+    },
+    {
+        "text": "unoffical",
+        "value": 1.3975424859373686,
+        "count": "5/8"
+    },
+    {
+        "text": "are",
+        "value": 1.3853050971375753,
+        "count": "1900/59784"
+    },
+    {
+        "text": "on",
+        "value": 1.3656774193548387,
+        "count": "1764/54250"
+    },
+    {
+        "text": "homm",
+        "value": 1.3424798363976225,
+        "count": "80/533"
+    },
+    {
+        "text": "tropical",
+        "value": 1.3392047594580532,
+        "count": "13/35"
+    },
+    {
+        "text": "enchants",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "familie",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "vietcong",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "bd",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "shaddaa",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "microwave",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "wwii",
+        "value": 1.3234727068381409,
+        "count": "29/118"
+    },
+    {
+        "text": "breeding",
+        "value": 1.3228756555322954,
+        "count": "7/14"
+    },
+    {
+        "text": "assault",
+        "value": 1.3160261859646263,
+        "count": "57/327"
+    },
+    {
+        "text": "hero",
+        "value": 1.3049290962889533,
+        "count": "131/1149"
+    },
+    {
+        "text": "inmate",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "r\u00e9putation",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    }
+]

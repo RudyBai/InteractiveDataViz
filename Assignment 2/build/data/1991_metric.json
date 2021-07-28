@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "memorandum",
+        "value": 4.251397436759972,
+        "count": "27/33"
+    },
+    {
+        "text": "martian",
+        "value": 3.360209566521021,
+        "count": "34/59"
+    },
+    {
+        "text": "prehistorik",
+        "value": 2.8284271247461903,
+        "count": "8/8"
+    },
+    {
+        "text": "welsh",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "castles",
+        "value": 2.3621114445995013,
+        "count": "58/187"
+    },
+    {
+        "text": "populous",
+        "value": 2.039607805437114,
+        "count": "26/65"
+    },
+    {
+        "text": "papal",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "beamish",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "waterdeep",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "softdisk",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "eob",
+        "value": 1.7297297297297298,
+        "count": "16/37"
+    },
+    {
+        "text": "pope",
+        "value": 1.6162440712835373,
+        "count": "8/14"
+    },
+    {
+        "text": "streets",
+        "value": 1.5599358961188117,
+        "count": "46/200"
+    },
+    {
+        "text": "catacombs",
+        "value": 1.528809215608191,
+        "count": "15/38"
+    },
+    {
+        "text": "catacomb",
+        "value": 1.5058465048420855,
+        "count": "10/21"
+    },
+    {
+        "text": "22",
+        "value": 1.4142135623730951,
+        "count": "8/16"
+    },
+    {
+        "text": "morris",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "coverdisk",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "claimants",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sidhe",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nighthawk",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "amraam",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tights",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "intex",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sporadisch",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "auftretende",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "charaktermodelle",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "reddish",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "linsky",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "realsound",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "uae",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "md",
+        "value": 1.190916684103659,
+        "count": "8/19"
+    },
+    {
+        "text": "eotb",
+        "value": 1.118033988749895,
+        "count": "5/10"
+    },
+    {
+        "text": "speeder",
+        "value": 1.0894270104383608,
+        "count": "7/17"
+    },
+    {
+        "text": "radars",
+        "value": 1.016394535227177,
+        "count": "5/11"
+    },
+    {
+        "text": "\u043a\u043b\u0430\u0441\u0441\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0434\u0432\u043e\u044e\u0440\u043e\u0434\u043d\u044b\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0434\u0435\u0434\u0443\u0448\u043a\u0430\u043c\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0434\u0435\u0440\u0435\u0432\u044f\u043d\u043d\u044b\u043c\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0432\u0435\u0440\u0442\u043e\u043b\u0451\u0442\u0430\u043c\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0430\u0434\u0441\u043a\u0438\u043c\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043c\u0443\u043b\u044c\u0442\u0438\u043f\u043b\u0435\u0435\u0440\u0430\u043c\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0441\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "craptons",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gamve",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "prehostorik",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "druidic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "arbritarily",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "knight'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "scalawag",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "aubrey",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hodges",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "spiritualism",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cotl",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cemetaries",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "infernos",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "catabyss",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "unbelivably",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u300c\u4e3b\u4eba\u516c\u306f\u30ab\u30bf\u30b3\u30f3\u30da\u306b\u5438\u3044\u5bc4\u305b\u3089\u308c\u308b\u304b\u306e\u3088\u3046\u306b\u8a98\u308f\u308c\u305f\u3002\u541b\u306f\u30cd\u30e1\u30b7\u30b9\u3068\u3044\u3046\u8607\u3063\u305f\u9b54\u6cd5\u4f7f\u3044\u3092\u5012\u3057\u8131\u51fa\u3059\u308b\u306e\u3060\u300d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u30d7\u30ed\u30c8\u30bf\u30a4\u30d7\u306e\u3088\u3046\u306a\u4f5c\u54c1\u3067\u3001\u6614\u306a\u304c\u3089\u306e\u30de\u30c3\u30d7\u3092\u30e1\u30e2\u3063\u3066\u9032\u3080\u4ed5\u69d8\u306b\u59cb\u3081\u306f\u5c11\u3005\u6238\u60d1\u3063\u305f\u3002",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u3068\u3044\u3046\u306e\u3082\u3001\u8fd1\u5e74\u6d41\u884c\u306e\u30ed\u30fc\u30b0\u30e9\u30a4\u30af\u306b\u8fd1\u3044\u300c\u7c21\u7565\u5316\u3055\u308c\u305f\u30b7\u30b9\u30c6\u30e0\u300d\u3068\u3001\u300c\u63a2\u7d22\u306e\u7dca\u5f35\u611f\u300d\u3092\u91cd\u306d\u5408\u308f\u305b\u3066\u3044\u308b\u304b\u3089\u3067\u3042\u308b\u3002",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u9b54\u6cd5\u304c\u4f7f\u3048\u308b\u4e3b\u4eba\u516c\u306f\u901a\u5e38\u306e\u9b54\u6cd5\u5f3e\u3092mp\u6d88\u8cbb\u306a\u3057\u3067\u653e\u3064\u4e8b\u304c\u3067\u304d\u308b\u4e0a\u3001",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u300c\u30b7\u30ca\u30ea\u30aa\uff11\u30fb\u30a2\u30d3\u30b9\u300d\u306f\u901a\u5e38\u9b54\u6cd5\u9023\u6253\u3059\u308b\u3060\u3051\u3067\u30af\u30ea\u30a2\u53ef\u80fd\u3001\u7279\u6b8a\u5f3e\u306f\u4f59\u3063\u3066\u3057\u307e\u3063\u305f\u3002",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u300c\u30b7\u30ca\u30ea\u30aa\uff12\u30fb\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9\u300d\u3068\u300c\u30b7\u30ca\u30ea\u30aa\uff13\u30fb\u30a2\u30eb\u30de\u30b2\u30c9\u30f3\u300d\u304b\u3089\u306f\u30de\u30c3\u30d7\u69cb\u6210\u304c\u610f\u5730\u60aa\u306b\u306a\u308b\u4e0a\u3001\u96a0\u3057\u901a\u8def\u3092\u898b\u3064\u3051\u51fa\u3055\u306a\u3051\u308c\u3070\u30af\u30ea\u30a2\u3059\u308b\u3053\u3068\u304c\u96e3\u3057\u304f\u306a\u308b\u3002",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u30fb\u7d50\u8ad6",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u30a6\u30eb\u30d5\u30a7\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\uff13d\u306e\u30dd\u30fc\u30c8\u3060\u3068\u3001\u30de\u30c3\u30d4\u30f3\u30b0\u3057\u3066\u304f\u308c\u308b\u30b7\u30b9\u30c6\u30e0\u304c\u8ffd\u52a0\u3055\u308c\u305f\u306e\u3067\u3042\u308a\u304c\u305f\u304b\u3063\u305f\u306e\u3067\u3059\u304c\u3001",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "most]",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "prerfectly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dungeoncrawling",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "own;",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "catan",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "premodern",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "recess",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "worty",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cauldrons",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "macplay",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "wooooooo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hooooooooooooooooooo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "nadine",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "barton",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "paige",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "alsop",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "contending",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "excommunication",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "flemish",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "croak",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "onside",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "excommunicated",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "perferably",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "modren",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "386",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "welshmen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "'build'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "onlybthey",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "reamber",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "leting",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "groew",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "retentive",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "analysist",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "guarranteed",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pop2",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "censors",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "baptismal",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "odysseus",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "really;",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "diminishment",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "butterknife",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "watermark",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "munt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rtb",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "irak",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hotcakes",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "concentrations",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "untoward",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hyperspeed",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "guises",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "silenty",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dids",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "flaps",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "schweet",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "joyto",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mechagodzilla",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gigan",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "megalon",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hedorah",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lolwut",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "colorable",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "radium",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "wende",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "faszinierende",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "twain",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zivilisation",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dreams\u201d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "goldman",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "[meh]",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "acustomed",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "scienes",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "defeatable",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "precedure",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "twibbles",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "aros",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dirname",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "readlink",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dosboxabta",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "aimlesly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "padder",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quietness",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "characterises",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "firedoors",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "detonates",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "smartcards",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "masturbator",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "esquiest",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "climatization",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "creams",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cpu's",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "unimplemented",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mainclasses",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rangerclass",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "itemslots",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "footslot",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "neckslot",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "decorativ",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "forearm",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "handslot",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "itemsslots",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "exluding",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hungermeter",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "revitalisation",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "darkmoon",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "oakwind",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "enquired",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mithrswd",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "constructiva",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "revividos",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "descubr\u00ed",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "chaval",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "edad",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quedar",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fantas\u00eda",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "contribu\u00eddo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sobremanera",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "futilidad",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cl\u00e9rigo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cobarde",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "recupera",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sue\u00f1os",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "perdidos",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "recrear",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rendido",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "acerco",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mentar",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "estropeemos",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bonita",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "surrendered",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u0435\u0430\u0434\u0435\u043a\u0432\u0430\u0442\u043d\u0430",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0448\u043b\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rollenspielreihe",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "jugendlicher",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "damaliger",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "raubkopien",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "classische",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rollenspielkunst",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "geniesen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "altbackenen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "atmossp\u00e4hre",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "promted",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "codeword",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "throughts",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "grindwork",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "beneth",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "harty",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "antiken",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "heimcomputer",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hineinzufinden",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lekt\u00fcre",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "handbuchs",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "erfreulich",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "detektivspiel",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "computerspielgeschichte",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "allgemeinen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sprungbrett",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fortsetzungen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "schnappt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "notizblock",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "kl\u00e4rt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vermeintlichen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "flugabschnitte",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zeitaufw\u00e4ndig",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "entt\u00e4uschendes",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "relikt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "unn\u00f6tige",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gn\u00e4diger",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "umgegangen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "verbreiten",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "knallhart",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "aufschub",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gesamtwertung",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "hievt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mittelm\u00e4\u00dfigkeit",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fu\u00dfen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "treibsand",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "sicherheitssystem",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "grobpixelig",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bildschirmscreen",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ausgenutzt",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "eigenwilliger",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "generas",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "'mean",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pulpiness",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "'space",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "'total",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "gajillion",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bargained",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "77",
+        "value": 1.0,
+        "count": "1/1"
+    }
+]

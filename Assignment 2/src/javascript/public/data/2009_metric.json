@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "saboteur",
+        "value": 5.9171980289810895,
+        "count": "42/46"
+    },
+    {
+        "text": "torchlight",
+        "value": 5.679034684401836,
+        "count": "130/261"
+    },
+    {
+        "text": "paris",
+        "value": 3.6601208142628296,
+        "count": "38/64"
+    },
+    {
+        "text": "pandemic",
+        "value": 3.636549160387958,
+        "count": "18/21"
+    },
+    {
+        "text": "eador",
+        "value": 3.323140427022111,
+        "count": "41/79"
+    },
+    {
+        "text": "nazi",
+        "value": 3.09009009009009,
+        "count": "49/111"
+    },
+    {
+        "text": "ceville",
+        "value": 3.0,
+        "count": "9/9"
+    },
+    {
+        "text": "machinarium",
+        "value": 2.885412995141463,
+        "count": "37/78"
+    },
+    {
+        "text": "sacred",
+        "value": 2.819084202546189,
+        "count": "61/169"
+    },
+    {
+        "text": "gentlemen",
+        "value": 2.555989296817229,
+        "count": "24/46"
+    },
+    {
+        "text": "guybrush",
+        "value": 2.5251560049815436,
+        "count": "35/82"
+    },
+    {
+        "text": "saints",
+        "value": 2.3924730579368663,
+        "count": "48/139"
+    },
+    {
+        "text": "braid",
+        "value": 2.31416764751961,
+        "count": "18/33"
+    },
+    {
+        "text": "fallout",
+        "value": 2.2834063540497067,
+        "count": "214/1371"
+    },
+    {
+        "text": "potc",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "\u0442\u043e\u0440\u0447\u043b\u0430\u0439\u0442",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "gotr",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "devlin",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "shard",
+        "value": 2.1213203435596424,
+        "count": "18/36"
+    },
+    {
+        "text": "ozzy",
+        "value": 2.0995626366712954,
+        "count": "6/7"
+    },
+    {
+        "text": "vats",
+        "value": 2.05703790890632,
+        "count": "8/11"
+    },
+    {
+        "text": "nazis",
+        "value": 2.0025491356034366,
+        "count": "34/99"
+    },
+    {
+        "text": "headbangers",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "stilwater",
+        "value": 2.0,
+        "count": "4/4"
+    },
+    {
+        "text": "crossworlds",
+        "value": 1.9794866372215738,
+        "count": "12/21"
+    },
+    {
+        "text": "gta",
+        "value": 1.9616858237547892,
+        "count": "64/261"
+    },
+    {
+        "text": "lemmy",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "solos",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "the",
+        "value": 1.8579507780033455,
+        "count": "8570/427009"
+    },
+    {
+        "text": "diablo",
+        "value": 1.7765606366010145,
+        "count": "146/993"
+    },
+    {
+        "text": "unleashed",
+        "value": 1.7621080835589957,
+        "count": "19/47"
+    },
+    {
+        "text": "piratesahoy",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "halford",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "metalheads",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "vorgetragen",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "naozaj",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "vanquisher",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "\u0442\u0443\u0440\u0431\u043e",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "tochlight",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "ordrak",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "gmt",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "tourchlight",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "helldorado",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "tfu",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "logiciel",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "videosetup",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "elaine",
+        "value": 1.6836599252229214,
+        "count": "7/11"
+    },
+    {
+        "text": "megaton",
+        "value": 1.6836599252229214,
+        "count": "7/11"
+    },
+    {
+        "text": "physx",
+        "value": 1.6836599252229214,
+        "count": "7/11"
+    },
+    {
+        "text": "freerunning",
+        "value": 1.6329931618554518,
+        "count": "6/9"
+    },
+    {
+        "text": "row",
+        "value": 1.6082657938869622,
+        "count": "67/341"
+    },
+    {
+        "text": "trine",
+        "value": 1.6044365213206924,
+        "count": "38/146"
+    },
+    {
+        "text": "judas",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "br\u00fctal",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "necrovision",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "fnv",
+        "value": 1.5971914124998499,
+        "count": "5/7"
+    },
+    {
+        "text": "monkey",
+        "value": 1.5578868601611453,
+        "count": "94/585"
+    },
+    {
+        "text": "sean",
+        "value": 1.4974025954538652,
+        "count": "18/51"
+    },
+    {
+        "text": "vegas",
+        "value": 1.426783118123624,
+        "count": "41/184"
+    },
+    {
+        "text": "\u0440\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u0430\u044f",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043f\u0440\u0438\u043d\u0443\u0436\u0434\u0430\u0435\u0442",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "metallica",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "riggs",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "impairs",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "vielseitig",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tazka",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bavil",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "lena",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "headey",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "serkis",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043f\u043e\u043a\u0443\u043f\u0430\u0435\u043c",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "empolga",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tiram",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "aparecem",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ganhar\u00e1",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "chef\u00e3o",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "socketable",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "alric",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u015bwiaty",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "up\u0142ywem",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mrok",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "becket",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "grado",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pigiare",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "leflay",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "bedr\u00fcckende",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "futuristische",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "philisophy",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "eu3",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "surprenante",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "destripador",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "zaledwie",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "deski",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "airspeed",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u015bwietlny",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0430\u043c\u0431\u0438\u0446\u0438\u043e\u0437\u043d\u044b\u0439",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "id=",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "clothlevel",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "s&gt;",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dt",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u043d\u0430\u0445\u043e\u0434\u0438\u043b",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0441\u043e\u0441\u0442\u0430\u0432\u044f\u0442",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "chiave",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "supporto",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "darkmatters",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "r\u00e9cents",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "schwarz",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0441\u043e\u0445\u0440\u0430\u043d\u044f\u0435\u0442\u0441\u044f",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "hallrious",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "swayze",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "idolninja",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "homies",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "inputtemplates",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "blimps",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rdx",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "dieker",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "demesne",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ntsleep",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "iraq",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "blackhawk",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pet",
+        "value": 1.4032506665407456,
+        "count": "32/129"
+    },
+    {
+        "text": "and",
+        "value": 1.3889846544879574,
+        "count": "4808/240021"
+    },
+    {
+        "text": "sabbath",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "eddie",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "mettere",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "sviluppatori",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "woudl",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "\u043a\u043e\u043d\u0441\u043e\u043b\u0435\u0439",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "corpo",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "shaundi",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "irishman",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "a",
+        "value": 1.259629612466707,
+        "count": "4150/212241"
+    },
+    {
+        "text": "washington",
+        "value": 1.2422599874998832,
+        "count": "5/9"
+    },
+    {
+        "text": "har",
+        "value": 1.2422599874998832,
+        "count": "5/9"
+    },
+    {
+        "text": "gfwl",
+        "value": 1.224744871391589,
+        "count": "6/12"
+    },
+    {
+        "text": "to",
+        "value": 1.22046089904712,
+        "count": "4017/208607"
+    },
+    {
+        "text": "shards",
+        "value": 1.2160957564636465,
+        "count": "11/30"
+    },
+    {
+        "text": "is",
+        "value": 1.2058506436788807,
+        "count": "3177/148502"
+    },
+    {
+        "text": "of",
+        "value": 1.169770144654105,
+        "count": "3453/173458"
+    },
+    {
+        "text": "metal",
+        "value": 1.1689497716894977,
+        "count": "64/438"
+    },
+    {
+        "text": "you",
+        "value": 1.1623356749430123,
+        "count": "2945/137498"
+    },
+    {
+        "text": "energia",
+        "value": 1.1428571428571428,
+        "count": "4/7"
+    },
+    {
+        "text": "lechuck",
+        "value": 1.1428571428571428,
+        "count": "4/7"
+    },
+    {
+        "text": "voto",
+        "value": 1.1428571428571428,
+        "count": "4/7"
+    },
+    {
+        "text": "game",
+        "value": 1.130692654113442,
+        "count": "3074/150734"
+    },
+    {
+        "text": "irish",
+        "value": 1.077496047522358,
+        "count": "8/21"
+    },
+    {
+        "text": "provinces",
+        "value": 1.0730256674679235,
+        "count": "11/34"
+    },
+    {
+        "text": "risen",
+        "value": 1.0715432397336604,
+        "count": "41/245"
+    },
+    {
+        "text": "it",
+        "value": 1.0463807005700523,
+        "count": "2735/136693"
+    },
+    {
+        "text": "driving",
+        "value": 1.042505974245746,
+        "count": "61/457"
+    },
+    {
+        "text": "megadeth",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "zehn",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "\u043e\u0441\u0442\u0440\u043e\u0432",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "baixo",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "nativa",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "agceep",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "parkour",
+        "value": 1.0374062534484152,
+        "count": "15/56"
+    },
+    {
+        "text": "samorost",
+        "value": 1.0271216355850037,
+        "count": "14/51"
+    },
+    {
+        "text": "muita",
+        "value": 1.016394535227177,
+        "count": "5/11"
+    },
+    {
+        "text": "island",
+        "value": 1.0131166011541977,
+        "count": "105/1062"
+    },
+    {
+        "text": "\u0432\u043e\u0439\u043d",
+        "value": 1.0,
+        "count": "4/8"
+    },
+    {
+        "text": "1it",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fundation",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "leeting",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "houers",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "1the",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lees",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "versetile",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "circomvent",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "oplay",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "arrrived",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "halfings",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "niceish",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0433\u043f\u043a",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u043d\u0430\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0435\u0440\u0435\u043f\u043b\u0435\u0442\u0430\u044e\u0442\u0441\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0442\u043e\u0440\u0433\u043e\u0432\u043e\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043a\u0430\u043f\u0435\u0440\u0441\u043a\u043e\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0440\u0443\u0442\u0438\u043d\u043e\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0432\u0440\u0435\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0443\u0442\u043e\u043f\u0438\u043b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0438\u0440\u0430\u0442\u0441\u043a\u0438\u0445",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0431\u0430\u0440\u043a\u0430\u0441\u043e\u0432",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0437\u0430\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043a\u0430\u0437\u0430\u043b\u0430\u0441\u044c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043a\u043b\u043e\u043d\u043e\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0443\u043c\u043d\u044b\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0442\u0430\u0439\u043a\u043e\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0432\u0434\u043e\u0445\u043d\u043e\u0432\u0438\u0432\u0448\u0438\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0440\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u044b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043e\u0441\u0442\u0440\u044b\u0445",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043e\u0449\u0443\u0449\u0435\u043d\u0438\u0439",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "definantly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "correspondent",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "changez",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cliquant",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "meirs",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "molassas",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ambititious",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tenochtitlan",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ageofpirates",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "caribean",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "micrmanage",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "chainshot",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "grapeshot",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "duals",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "outspokenly",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pieace",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0437\u0430\u043c\u0435\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "d\u00e8sire",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "macinarium",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "speaking'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "forgames",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "schoolyard",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "buskers",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "msgs",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lather",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bascially",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "exponantially",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "acerbated",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "perceptively",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "puzzlesolving",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "otherheights",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "machinariums",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "diaogue",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "headwrecking",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "multipass",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "wardancers",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u043e\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043e\u0441\u043e\u0431\u0435\u043d\u043d\u0430\u044f",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0432\u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0433\u0438\u0442\u0430\u0440\u0445\u0438\u0440\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043a\u043d\u043e\u043f\u043e\u0447\u043a\u0430\u043c\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0431\u043b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0440\u043e\u043f\u0438\u0442\u0430\u043d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043c\u0435\u0442\u0430\u043b\u043b\u0430",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0441\u043e\u0448\u0435\u043b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043e\u0431\u043b\u043e\u0436\u0435\u043a",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0430\u043b\u044c\u0431\u043e\u043c\u043e\u0432",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0430\u0439\u0440\u0435\u043d\u043c\u044d\u0438\u0434\u0435\u043d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043d\u0435\u043f\u043e\u0441\u0442\u0438\u0436\u0438\u043c\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0448\u0435\u0434\u0435\u0432\u0440\u0430\u043b\u044c\u043d\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u044e\u043d\u0438\u0442",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0441\u043c\u0435\u0445",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0440\u0435\u0430\u043b\u044c\u043e",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043a\u0430\u0431\u0430\u043d",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043c\u043e\u0442\u043e\u0440\u043e\u043c",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0440\u0438\u0433\u043b\u0430\u0448\u0435\u043d\u043d\u044b\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0441\u0443\u043f\u0435\u0440\u0437\u0432\u0435\u0437\u0434\u044b",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043e\u0437\u0437\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0434\u0436\u044d\u043a",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0431\u043b\u044d\u043a",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0434\u0435\u0444\u0441\u0442\u0430\u0440\u0441",
+        "value": 1.0,
+        "count": "1/1"
+    }
+]

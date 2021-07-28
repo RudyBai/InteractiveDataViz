@@ -1,0 +1,1282 @@
+[
+    {
+        "text": "phantasmagoria",
+        "value": 4.853262262968621,
+        "count": "67/113"
+    },
+    {
+        "text": "stonekeep",
+        "value": 4.775586704657599,
+        "count": "39/51"
+    },
+    {
+        "text": "adrienne",
+        "value": 4.123105625617661,
+        "count": "17/17"
+    },
+    {
+        "text": "bioforge",
+        "value": 4.065578140908708,
+        "count": "20/22"
+    },
+    {
+        "text": "ellison",
+        "value": 3.894044201972235,
+        "count": "17/18"
+    },
+    {
+        "text": "screamer",
+        "value": 3.6975787849964337,
+        "count": "41/71"
+    },
+    {
+        "text": "entomorph",
+        "value": 3.4641016151377544,
+        "count": "12/12"
+    },
+    {
+        "text": "harlan",
+        "value": 3.348011898645133,
+        "count": "13/14"
+    },
+    {
+        "text": "fmv",
+        "value": 3.319980140890078,
+        "count": "133/462"
+    },
+    {
+        "text": "cyberia",
+        "value": 2.9811925685457443,
+        "count": "23/37"
+    },
+    {
+        "text": "albion",
+        "value": 2.9465996114509547,
+        "count": "29/53"
+    },
+    {
+        "text": "plebs",
+        "value": 2.56,
+        "count": "16/25"
+    },
+    {
+        "text": "sothr",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "ixupi",
+        "value": 2.449489742783178,
+        "count": "6/6"
+    },
+    {
+        "text": "anvil",
+        "value": 2.343608329051593,
+        "count": "13/20"
+    },
+    {
+        "text": "erickson",
+        "value": 2.315032397181517,
+        "count": "7/8"
+    },
+    {
+        "text": "museum",
+        "value": 2.247025548362922,
+        "count": "26/59"
+    },
+    {
+        "text": "munich",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "thalion",
+        "value": 2.23606797749979,
+        "count": "5/5"
+    },
+    {
+        "text": "shivers",
+        "value": 2.1819294962327747,
+        "count": "18/35"
+    },
+    {
+        "text": "gzdoom",
+        "value": 2.064516129032258,
+        "count": "16/31"
+    },
+    {
+        "text": "spielberg",
+        "value": 2.0578065752724597,
+        "count": "7/9"
+    },
+    {
+        "text": "dean",
+        "value": 2.05703790890632,
+        "count": "8/11"
+    },
+    {
+        "text": "wilco",
+        "value": 1.8856180831641267,
+        "count": "8/12"
+    },
+    {
+        "text": "ambermoon",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "amberstar",
+        "value": 1.863389981249825,
+        "count": "5/6"
+    },
+    {
+        "text": "crusader",
+        "value": 1.838124179648308,
+        "count": "52/204"
+    },
+    {
+        "text": "ludwig",
+        "value": 1.8371173070873834,
+        "count": "6/8"
+    },
+    {
+        "text": "silencer",
+        "value": 1.8063173591322477,
+        "count": "14/29"
+    },
+    {
+        "text": "roger",
+        "value": 1.760446975548826,
+        "count": "15/33"
+    },
+    {
+        "text": "ridge",
+        "value": 1.740570538305348,
+        "count": "8/13"
+    },
+    {
+        "text": "gabriel",
+        "value": 1.7395892615494244,
+        "count": "78/396"
+    },
+    {
+        "text": "janes",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "arcologies",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "simcopter",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "whahooka",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "cinque",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "lids",
+        "value": 1.7320508075688772,
+        "count": "3/3"
+    },
+    {
+        "text": "the",
+        "value": 1.6160548821068499,
+        "count": "7809/427009"
+    },
+    {
+        "text": "daytona",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "hellbender",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "pk3",
+        "value": 1.6,
+        "count": "4/5"
+    },
+    {
+        "text": "comet",
+        "value": 1.5882352941176472,
+        "count": "9/17"
+    },
+    {
+        "text": "katarn",
+        "value": 1.5882352941176472,
+        "count": "9/17"
+    },
+    {
+        "text": "journeyman",
+        "value": 1.562624149571185,
+        "count": "19/53"
+    },
+    {
+        "text": "wc",
+        "value": 1.5073783032511865,
+        "count": "24/78"
+    },
+    {
+        "text": "longbow",
+        "value": 1.4593149077563758,
+        "count": "11/25"
+    },
+    {
+        "text": "enigma",
+        "value": 1.4334213579880364,
+        "count": "12/29"
+    },
+    {
+        "text": "gage",
+        "value": 1.4246353213424718,
+        "count": "7/13"
+    },
+    {
+        "text": "confing",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "brimble",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "overturns",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "thunderscape",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ferrans",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "chimp",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "roba",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "joanne",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "takahashi",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "zell",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nakimura",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "sze\u015bciu",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "p\u0142ytach",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "realizacji",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gracie",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "gabriel's",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "neuschwanstein",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "adrien",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "jij",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "carno",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "tum",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "diane",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "reticulating",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "urk",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "torg",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "waffenkategorien",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "eint\u00f6nigkeit",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "wahooka",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mmomesos",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "url]|[url=http",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mmolive",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "debolezze",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "\u0432\u0430\u0445\u0438",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "grudgebringers",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "programmfehler",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "todesanimationen",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "trembles",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "ihnmaims",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "stupito",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "martello",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "panettiere",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "nimdok",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "silverball",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "usos",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "mastaba",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "spaceventure",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "astro",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "plunger",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "straylight",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "oporu",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "rebeliant\u00f3w",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "najmniejsze",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "czujniki",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "najwa\u017cniejsz\u0105",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pociski",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "zdl",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "autoload]",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "pinkies",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "iskai",
+        "value": 1.4142135623730951,
+        "count": "2/2"
+    },
+    {
+        "text": "simcity",
+        "value": 1.408579245391529,
+        "count": "50/251"
+    },
+    {
+        "text": "terminal",
+        "value": 1.3885005885117658,
+        "count": "18/55"
+    },
+    {
+        "text": "wad",
+        "value": 1.3512175071818295,
+        "count": "11/27"
+    },
+    {
+        "text": "warhammer",
+        "value": 1.3440860215053763,
+        "count": "25/93"
+    },
+    {
+        "text": "remorse",
+        "value": 1.3365845776954535,
+        "count": "21/72"
+    },
+    {
+        "text": "oggi",
+        "value": 1.3360853142453697,
+        "count": "6/11"
+    },
+    {
+        "text": "bavaria",
+        "value": 1.3333333333333333,
+        "count": "4/6"
+    },
+    {
+        "text": "bo\u00eete",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "aussies",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "bavarian",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "trottle",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "excalibur",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "crowe",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "sq",
+        "value": 1.299038105676658,
+        "count": "3/4"
+    },
+    {
+        "text": "doom",
+        "value": 1.2973178260787337,
+        "count": "132/1169"
+    },
+    {
+        "text": "and",
+        "value": 1.2188923039958623,
+        "count": "4407/240021"
+    },
+    {
+        "text": "velocity",
+        "value": 1.1876919823329444,
+        "count": "12/35"
+    },
+    {
+        "text": "maxis",
+        "value": 1.173913043478261,
+        "count": "9/23"
+    },
+    {
+        "text": "kyle",
+        "value": 1.173913043478261,
+        "count": "9/23"
+    },
+    {
+        "text": "i",
+        "value": 1.161777253219228,
+        "count": "3082/147274"
+    },
+    {
+        "text": "wciv",
+        "value": 1.1428571428571428,
+        "count": "4/7"
+    },
+    {
+        "text": "a",
+        "value": 1.134763802121176,
+        "count": "3871/212241"
+    },
+    {
+        "text": "to",
+        "value": 1.1127346186989182,
+        "count": "3777/208607"
+    },
+    {
+        "text": "it",
+        "value": 1.0978696097613208,
+        "count": "2824/136693"
+    },
+    {
+        "text": "husband",
+        "value": 1.090050385605392,
+        "count": "13/43"
+    },
+    {
+        "text": "roberta",
+        "value": 1.0540925533894598,
+        "count": "10/30"
+    },
+    {
+        "text": "omen",
+        "value": 1.0392304845413265,
+        "count": "27/135"
+    },
+    {
+        "text": "copter",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "lid",
+        "value": 1.0392304845413263,
+        "count": "3/5"
+    },
+    {
+        "text": "game",
+        "value": 1.0237609707401776,
+        "count": "2877/150734"
+    },
+    {
+        "text": "grace",
+        "value": 1.0093245713171157,
+        "count": "27/139"
+    },
+    {
+        "text": "of",
+        "value": 1.0032539280824613,
+        "count": "3117/173458"
+    },
+    {
+        "text": "fief",
+        "value": 1.0,
+        "count": "4/8"
+    },
+    {
+        "text": "numerised",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "jousts",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cinimatic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "accompay",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "enclosere",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "standerd",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ghrapics",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "combability",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "typisches",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "8mb",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "changelle",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bya",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "corkscrew",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dx4",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "attila",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rige",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "interesert",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "spcecial",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "'wrapper'",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "apprecite",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "allistair",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "'rolling",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cdaudio",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "f2p",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "compure",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "flot",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "d\u00e9jouant",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "m\u00e9canisme",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "v\u00e9n\u00e9rable",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "murphey",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "heinlein",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "century's",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "frs",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "secours",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "reconstituer",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "doubl\u00e9s",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "flagrants",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "intonations",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cmd",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "arni",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "enlgish",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "d\u00e9marque",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "habituelle",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "disparue",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dubitatif",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "scens",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mediocere",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "zenoarchaeology",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mccracken",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fleamarket",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mho",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "cheeta",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ughhh",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "mosaic",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "moreau",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u043e\u0438\u043d\u0442",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u0430\u0434\u0432\u0435\u043d\u0442\u0443\u0440",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0438\u043a\u0441\u0435\u043b\u044c\u043d\u044b\u0435",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "\u043f\u0443\u0433\u0430\u043b\u0438",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "whippersnappers",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bronxiness",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "fotaq",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tailend",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "passfield",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pygmy",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "savable",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "ungraciously",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "yabkpim7gm5uz3llvkt3",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "railers",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "railer",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "429246",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "csoon",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "18074",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "t7t7fk0i&amp;list=ploafmgzyw18jyoogfp8avpmzvhxz01q8t&amp;index=1",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "doktor",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "klingman",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "d\u00e0",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "filo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "torcere",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "antidiluviana",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pixellata",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "odierne",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "coinvolgimento",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "recitazione",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "perduta",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quand\u00f2",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "dimenticato",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "potevo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "permettermelo",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "capolavori",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "perduto",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rigiocando",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "lasciato",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pompato",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "generazione",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "catturato",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "quegli",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "potevano",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tirare",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "generazioni",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "vuote",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "indescrivibile",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "contenuto",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "prodotti",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "minima",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "pensare",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "obbligatorio",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "tornate",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "piange",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "rittersburg",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "trashig",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "solidem",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "punktet",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "graduately",
+        "value": 1.0,
+        "count": "1/1"
+    },
+    {
+        "text": "bafoon",
+        "value": 1.0,
+        "count": "1/1"
+    }
+]

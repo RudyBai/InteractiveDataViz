@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+}
+
+.Nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    padding-bottom: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+}
+
+a:hover {
+    background-color: darkblue;
+    color: cornflowerblue;
+}
+
+button {
+    margin-top: 20px;
+}
